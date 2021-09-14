@@ -1,0 +1,1793 @@
+﻿Log file open, 09/14/21 19:09:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: HW_06_PetFollow
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222201
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Aito/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:430][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.14-11.09.38:440][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.14-11.09.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.14-11.09.38:442][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.14-11.09.38:442][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.14-11.09.38:442][  0]LogHAL: Display: Platform has ~ 16 GB [17118265344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.14-11.09.38:442][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.14-11.09.38:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Scalability.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Engine.ini]
+[2021.09.14-11.09.38:443][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Config/Windows/Editor.ini]
+[2021.09.14-11.09.38:444][  0]LogInit: Computer: DESKTOP-326H02J
+[2021.09.14-11.09.38:444][  0]LogInit: User: Aito
+[2021.09.14-11.09.38:444][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.14-11.09.38:444][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.14-11.09.38:444][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.09.14-11.09.38:444][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.14-11.09.38:444][  0]LogMemory: Process Physical Memory: 133.65 MB used, 133.65 MB peak
+[2021.09.14-11.09.38:444][  0]LogMemory: Process Virtual Memory: 117.22 MB used, 117.22 MB peak
+[2021.09.14-11.09.38:444][  0]LogMemory: Physical Memory: 7153.68 MB used,  9171.57 MB free, 16325.25 MB total
+[2021.09.14-11.09.38:444][  0]LogMemory: Virtual Memory: 134201216.00 MB used,  16509.72 MB free, 134217728.00 MB total
+[2021.09.14-11.09.38:449][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.14-11.09.38:471][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.14-11.09.38:472][  0]LogInit: Using OS detected language (zh-TW).
+[2021.09.14-11.09.38:472][  0]LogInit: Using OS detected locale (zh-TW).
+[2021.09.14-11.09.38:476][  0]LogTextLocalizationManager: No localization for 'zh-TW' exists, so 'en' will be used for the language.
+[2021.09.14-11.09.38:700][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.14-11.09.38:741][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.14-11.09.38:753][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.14-11.09.38:753][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.14-11.09.38:888][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.14-11.09.38:888][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.14-11.09.38:888][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.14-11.09.38:888][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.14-11.09.38:966][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.09.14-11.09.38:966][  0]LogD3D11RHI:       6052/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.14-11.09.38:968][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.14-11.09.38:968][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.14-11.09.38:968][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.14-11.09.38:975][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.14-11.09.38:975][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.14-11.09.38:975][  0]LogWindows: EnumDisplayDevices:
+[2021.09.14-11.09.38:975][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.09.14-11.09.38:975][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.09.14-11.09.38:976][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.09.14-11.09.38:976][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.09.14-11.09.38:976][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.09.14-11.09.38:976][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.09.14-11.09.38:976][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.09.14-11.09.38:976][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.09.14-11.09.38:976][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.09.14-11.09.39:025][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.14-11.09.39:025][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.14-11.09.39:025][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.14-11.09.39:045][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.14-11.09.39:047][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.14-11.09.39:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.14-11.09.39:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.14-11.09.39:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.14-11.09.39:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.14-11.09.39:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.14-11.09.39:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.14-11.09.39:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.14-11.09.39:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.14-11.09.39:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.14-11.09.39:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.14-11.09.39:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.14-11.09.39:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.14-11.09.39:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.14-11.09.39:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.14-11.09.39:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.14-11.09.39:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.14-11.09.39:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.14-11.09.39:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.14-11.09.39:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.14-11.09.39:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.14-11.09.39:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.14-11.09.39:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.14-11.09.39:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.14-11.09.39:585][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.14-11.09.39:592][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.14-11.09.39:650][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.14-11.09.39:651][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Intermediate/Shaders/WorkingDirectory/13952/).
+[2021.09.14-11.09.39:651][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aito/AppData/Local/Temp/UnrealShaderWorkingDir/6A9DC2A84E7DAFEF1A8BFDB23990EBC0/'.
+[2021.09.14-11.09.39:651][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.14-11.09.39:651][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.14-11.09.40:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.14-11.09.40:505][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Aito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.14-11.09.40:505][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.14-11.09.40:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.14-11.09.40:506][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.14-11.09.40:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.14-11.09.40:506][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.14-11.09.40:518][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.14-11.09.40:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.14-11.09.40:518][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.14-11.09.40:527][  0]LogDerivedDataCache: Speed tests for C:/Users/Aito/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.14-11.09.40:527][  0]LogDerivedDataCache: Display: Performance to C:/Users/Aito/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=877.89MBs, RandomWriteSpeed=126.21MBs. Assigned SpeedClass 'Local'
+[2021.09.14-11.09.40:528][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aito/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.14-11.09.40:528][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.14-11.09.40:528][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.14-11.09.40:580][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.14-11.09.40:580][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.14-11.09.40:608][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.09.14-11.09.40:850][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.14-11.09.40:850][  0]LogInit: Active device profile: [000001B456A17600][000001B45527BD40 49] Windows
+[2021.09.14-11.09.40:850][  0]LogInit: Profiles: [000001B456A17600][000001B45527BD40 49] Windows, [000001B4569E0C00][000001B455282200 49] WindowsNoEditor, [000001B456A14E00][000001B455286380 49] WindowsServer, [000001B4569E2F00][000001B45528A500 49] WindowsClient, [000001B456A17000][000001B4443AC680 49] IOS, [000001B4569E1200][000001B4443B0800 49] iPadAir, [000001B456A15300][000001B4443B4980 49] iPadAir2, [000001B45699CC00][000001B4443BCC40 49] IPadPro, [000001B45699CD00][000001B4443B8C80 49] iPadAir3, [000001B456A16B00][000001B4443C0E00 49] iPadAir4, [000001B45699F900][000001B4443C4F80 49] iPadMini2, [000001B456A15600][000001B4443C9100 49] iPadMini3, [000001B45699E000][000001B4443CD280 49] iPadMini4, [000001B456A17700][000001B4443D1400 49] iPadMini5, [000001B4569E3100][000001B4443D96C0 49] iPhone6, [000001B4569E3200][000001B4443D5700 49] iPodTouch6, [000001B45699FB00][000001B4443DD940 49] iPhone7, [000001B45699DA00][000001B45527F980 49] iPodTouch7, [000001B4569E3500][000001B4443E1AC0 49] iPhone5S, [000001B45699FC00][000001B4443E9C40 49] iPhone6Plus, [000001B4569E3900][000001B4443EC100 49] iPhone6S, [000001B45699FA00][000001B4443F0280 49] iPhone6SPlus, [000001B4569E0300][000001B4443F4400 49] iPhone7Plus, [000001B45699D800][000001B4443F8580 49] iPhoneSE, [000001B4569E3400][000001B457436700 49] iPhone8, [000001B45699C200][000001B45743A880 49] iPhone8Plus, [000001B4569E1D00][000001B45743EA00 49] iPhoneX, [000001B45699C800][000001B457442B80 49] iPhoneXS, [000001B4569E1000][000001B457446D00 49] iPhoneXSMax, [000001B45699FD00][000001B45744AE80 49] iPhoneXR, [000001B4569E3F00][000001B45744F000 49] iPhone11, [000001B45699CA00][000001B457453180 49] iPhone11Pro, [000001B4569E3800][000001B457457300 49] iPhone11ProMax, [000001B45699D900][000001B45745B480 49] iPhoneSE2, [000001B4569E1300][000001B45745F600 49] iPhone12Mini, [000001B45699E300][000001B457463780 49] iPhone12, [000001B4569E0400][000001B4443E58C0 49] iPhone12Pro, [000001B45699D700][000001B457467A00 49] iPhone12ProMax, [000001B4569E2900][000001B45746BB40 49] iPadPro105, [000001B45699E700][000001B457473CC0 49] iPadPro129, [000001B4569E0600][000001B457476180 49] iPadPro97, [000001B45699D100][000001B45747A300 49] iPadPro2_129, [000001B4569E3300][000001B45747E480 49] iPad5, [000001B45699DF00][000001B457482600 49] iPad6, [000001B4569E1100][000001B457486780 49] iPad7, [000001B45699F400][000001B45748A900 49] iPad8, [000001B4569E2000][000001B45748EA80 49] iPadPro11, [000001B45699E800][000001B457492C00 49] iPadPro2_11, [000001B4569E3B00][000001B457496D80 49] iPadPro3_129, [000001B45699F000][000001B45749AF00 49] iPadPro4_129, [000001B4569E2200][000001B45749F080 49] AppleTV, [000001B45699D600][000001B4574A3200 49] AppleTV4K, [000001B4569E0D00][000001B4574A7380 49] TVOS, [000001B45699F300][000001B4574AB500 49] Mac, [000001B4569E2A00][000001B4574AF680 49] MacClient, [000001B45699F700][000001B4574B3800 49] MacNoEditor, [000001B4569E0100][000001B45746F940 49] MacServer, [000001B45699C700][000001B4574B7A80 49] Linux, [000001B456A14B00][000001B4574BBBC0 49] LinuxAArch64, [000001B456A70300][000001B4574BFD00 49] LinuxNoEditor, [000001B456A16400][000001B4574C61C0 49] LinuxAArch64NoEditor, [000001B456A71300][000001B4574CA340 49] LinuxClient, [000001B456A15200][000001B4574CE4C0 49] LinuxAArch64Client, [000001B456A71700][000001B4574D2640 49] LinuxServer, [000001B456A17B00][000001B4574D67C0 49] LinuxAArch64Server, [000001B456A70200][000001B4574DA940 49] Android, [000001B456A15100][000001B4574DEAC0 49] Android_Low, [000001B456A70100][000001B4574E2C40 49] Android_Mid, [000001B456A15000][000001B4574E6DC0 49] Android_High, [000001B456A71200][000001B4574EAF40 49] Android_Default, [000001B456A16000][000001B4574EF0C0 49] Android_Adreno4xx, [000001B456A70600][000001B4574F3240 49] Android_Adreno5xx_Low, [000001B456A17800][000001B4574F73C0 49] Android_Adreno5xx, [000001B456A70A00][000001B4574FB540 49] Android_Adreno6xx, [000001B456A16600][000001B4574FF6C0 49] Android_Adreno6xx_Vulkan, [000001B456A71100][000001B457531840 49] Android_Mali_T6xx, [000001B45699F200][000001B4574C3980 49] Android_Mali_T7xx, [000001B4569E1F00][000001B457535AC0 49] Android_Mali_T8xx, [000001B45699DE00][000001B457539C00 49] Android_Mali_G71, [000001B4569E3D00][000001B45753DD40 49] Android_Mali_G72, [000001B45699D500][000001B457544200 49] Android_Mali_G72_Vulkan, [000001B4569E1A00][000001B457548380 49] Android_Mali_G76, [000001B45699F100][000001B457554500 49] Android_Mali_G76_Vulkan, [000001B4569E2C00][000001B457558680 49] Android_Mali_G77, [000001B45699D400][000001B457568800 49] Android_Mali_G77_Vulkan, [000001B4569E1C00][000001B45758C980 49] Android_Vulkan_SM5, [000001B45699E500][000001B457598B00 49] Android_PowerVR_G6xxx, [000001B4569E1800][000001B4575DCC80 49] Android_PowerVR_GT7xxx, [000001B45699CE00][000001B4575E0E00 49] Android_PowerVR_GE8xxx, [000001B4569E0F00][000001B4575E4F80 49] Android_PowerVR_GM9xxx, [000001B45699ED00][000001B4575ED100 49] Android_PowerVR_GM9xxx_Vulkan, [000001B4569E3000][000001B4575F1280 49] Android_TegraK1, [000001B45699DB00][000001B4575F5400 49] Android_Unknown_Vulkan, [000001B4569E2800][000001B4575FD580 49] Lumin, [000001B45699CB00][000001B457601700 49] Lumin_Desktop, [000001B4569E2400][000001B45760B880 49] HoloLens, 
+[2021.09.14-11.09.40:894][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.14-11.09.40:894][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.14-11.09.40:894][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.14-11.09.40:894][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.14-11.09.40:894][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.14-11.09.40:982][  0]LogNetVersion: HW_06_PetFollow 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1748318199)
+[2021.09.14-11.09.41:464][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.14-11.09.41:518][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.053413 seconds
+[2021.09.14-11.09.41:524][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.14-11.09.41:524][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.14-11.09.41:524][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.14-11.09.41:895][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.14-11.09.41:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.14-11.09.41:982][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.41:982][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.41:986][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.41:989][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.41:997][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.42:003][  0]LogUProjectInfo: Found projects:
+[2021.09.14-11.09.42:010][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-11.09.42:010][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-11.09.42:240][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.14-11.09.42:260][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.14-11.09.42:260][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.14-11.09.42:308][  0]LogCollectionManager: Loaded 0 collections in 0.001004 seconds
+[2021.09.14-11.09.42:330][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Collections/' took 0.00s
+[2021.09.14-11.09.42:330][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/Developers/Aito/Collections/' took 0.00s
+[2021.09.14-11.09.42:330][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/Collections/' took 0.00s
+[2021.09.14-11.09.42:330][  0]LogOcInput: OculusInput pre-init called
+[2021.09.14-11.09.42:340][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.14-11.09.42:340][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.14-11.09.42:387][  0]LogEngine: Initializing Engine...
+[2021.09.14-11.09.42:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.14-11.09.42:388][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.14-11.09.42:389][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.14-11.09.42:513][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.14-11.09.42:520][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.14-11.09.42:538][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.14-11.09.42:542][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.14-11.09.42:542][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.09.42:542][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.09.42:542][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.09.42:543][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.09.42:543][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.09.42:555][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.09.42:555][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.09.42:587][  0]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.09.42:592][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.09.42:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.09.42:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.09.42:594][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.09.42:594][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.09.42:594][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.09.42:595][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.09.42:595][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.09.42:595][  0]LogInit: FAudioDevice initialized.
+[2021.09.14-11.09.42:596][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.14-11.09.42:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.14-11.09.42:679][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Aito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.14-11.09.42:679][  0]LogInit: Texture streaming: Enabled
+[2021.09.14-11.09.42:691][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.14-11.09.42:695][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.14-11.09.42:695][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.14-11.09.42:697][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.14-11.09.42:725][  0]LogInit: Transaction tracking system initialized
+[2021.09.14-11.09.42:746][  0]BlueprintLog: New page: Editor Load
+[2021.09.14-11.09.42:815][  0]LocalizationService: Localization service is disabled
+[2021.09.14-11.09.42:838][  0]TimingProfiler: Initialize
+[2021.09.14-11.09.42:838][  0]TimingProfiler: OnSessionChanged
+[2021.09.14-11.09.42:838][  0]LoadingProfiler: Initialize
+[2021.09.14-11.09.42:838][  0]LoadingProfiler: OnSessionChanged
+[2021.09.14-11.09.42:838][  0]NetworkingProfiler: Initialize
+[2021.09.14-11.09.42:838][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.14-11.09.42:838][  0]MemoryProfiler: Initialize
+[2021.09.14-11.09.42:838][  0]MemoryProfiler: OnSessionChanged
+[2021.09.14-11.09.42:888][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-11.09.42:888][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.14-11.09.42:961][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.14-11.09.42:961][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.14-11.09.43:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/' took 0.05s
+[2021.09.14-11.09.43:319][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.14-11.09.43:322][  0]SourceControl: Source control is disabled
+[2021.09.14-11.09.43:322][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.112
+[2021.09.14-11.09.43:323][  0]Cmd: MAP LOAD FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/射擊場地.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.14-11.09.43:327][  0]LightingResults: New page: Lighting Build
+[2021.09.14-11.09.43:328][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.09.43:328][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.09.43:328][  0]MapCheck: New page: Map Check
+[2021.09.14-11.09.43:328][  0]LightingResults: New page: Lighting Build
+[2021.09.14-11.09.43:337][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.09.14-11.09.43:467][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '射擊場地'.
+[2021.09.14-11.09.43:468][  0]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.14-11.09.43:478][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.14-11.09.43:495][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.09.14-11.09.43:495][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.14-11.09.43:495][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2021.09.14-11.09.43:495][  0]LogFileHelpers: Loading map '射擊場地' took 0.173
+[2021.09.14-11.09.43:497][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.286
+[2021.09.14-11.09.43:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.09.43:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.09.43:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.09.43:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.09.43:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3601 classes and 859 folders.
+[2021.09.14-11.09.43:698][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.14-11.09.43:699][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-11.09.43:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-11.09.43:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.09.14-11.09.43:700][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.14-11.09.43:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.14-11.09.43:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.14-11.09.43:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-11.09.43:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.09.14-11.09.43:702][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.14-11.09.43:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.14-11.09.43:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.14-11.09.43:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.14-11.09.43:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.14-11.09.43:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-11.09.43:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.14-11.09.43:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.14-11.09.43:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.09.14-11.09.43:706][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-11.09.43:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-11.09.43:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.09.14-11.09.43:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-11.09.43:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-11.09.43:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.09.14-11.09.43:707][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-11.09.43:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-11.09.43:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.14-11.09.43:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-11.09.43:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.09.14-11.09.43:709][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.14-11.09.43:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.14-11.09.43:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.09.14-11.09.43:709][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-11.09.43:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-11.09.43:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.09.14-11.09.43:710][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-11.09.43:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-11.09.43:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-11.09.43:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.14-11.09.43:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.14-11.09.43:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.14-11.09.43:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.09.14-11.09.43:713][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.14-11.09.43:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.14-11.09.43:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.14-11.09.43:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.14-11.09.43:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.14-11.09.43:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.09.14-11.09.43:761][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.14-11.09.43:762][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.09.14-11.09.44:170][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.14-11.09.44:233][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.14-11.09.44:236][  0]LogSlate: Took 0.002085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.14-11.09.44:237][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.14-11.09.44:241][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.14-11.09.44:332][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-11.09.44:564][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.14-11.09.44:565][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.09.14-11.09.44:565][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.09.14-11.09.44:565][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.09.14-11.09.44:565][  0]LogLoad: (Engine Initialization) Total time: 7.35 seconds
+[2021.09.14-11.09.44:565][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.14-11.09.44:565][  0]LogInit: First time updating LLM stats...
+[2021.09.14-11.09.44:641][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.14-11.09.44:659][  1]LogAssetRegistry: Asset discovery search completed in 4.0515 seconds
+[2021.09.14-11.09.44:661][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.09.14-11.09.49:457][560]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.09.49:463][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.09.49:464][560]PIE: New page: PIE session: 射擊場地 (2021年9月15日 上午3:09:49)
+[2021.09.14-11.09.49:465][560]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.14-11.09.49:466][560]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.14-11.09.49:466][560]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.14-11.09.49:484][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017984s)
+[2021.09.14-11.09.49:485][560]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.14-11.09.49:485][560]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2021.09.14-11.09.49:485][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.019467s)
+[2021.09.14-11.09.49:491][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.14-11.09.49:492][560]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.09.49:492][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.09.49:492][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.09.49:493][560]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.09.49:493][560]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.09.49:498][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.09.49:498][560]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.09.49:511][560]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.09.49:512][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.09.49:512][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.09.49:512][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.09.49:512][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.09.49:512][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.09.49:512][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.09.49:527][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.09.49:527][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.09.49:527][560]LogInit: FAudioDevice initialized.
+[2021.09.14-11.09.49:527][560]LogAudio: Display: Audio Device (ID: 2) registered with world '射擊場地'.
+[2021.09.14-11.09.50:284][560]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.09.50:286][560]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.14-19.09.50
+[2021.09.14-11.09.50:286][560]LogWorld: Bringing up level for play took: 0.001055
+[2021.09.14-11.09.50:286][560]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.14-11.09.50:290][560]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.14-11.09.50:294][560]PIE: Server logged in
+[2021.09.14-11.09.50:295][560]PIE: Play in editor total start time 0.832 seconds.
+[2021.09.14-11.10.00:602][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.00:602][781]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.14-11.10.00:602][781]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.10.00:603][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.00:610][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.10.00:612][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.00:617][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-11.10.00:617][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.00:618][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.00:634][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.00:637][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.09.14-11.10.00:691][783]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.14-11.10.02:015][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.09.14-11.10.02:019][933]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-11.10.02:442][933]LogAssetEditorSubsystem: Opening Asset editor for World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-11.10.02:442][933]Cmd: MAP LOAD FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.14-11.10.02:442][933]LightingResults: New page: Lighting Build
+[2021.09.14-11.10.02:442][933]LoadErrors: New page: Loading map: 遊戲場景.umap
+[2021.09.14-11.10.02:482][933]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.10.02:482][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.02:482][933]MapCheck: New page: Map Check
+[2021.09.14-11.10.02:482][933]LightingResults: New page: Lighting Build
+[2021.09.14-11.10.02:488][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-11.10.02:494][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.09.14-11.10.02:496][933]LogAudio: Display: Audio Device (ID: 1) registered with world '遊戲場景'.
+[2021.09.14-11.10.02:505][933]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.14-11.10.02:505][933]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.10.02:514][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.14-11.10.02:523][933]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.14-11.10.02:523][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.09.14-11.10.02:523][933]LogFileHelpers: Loading map '遊戲場景' took 0.082
+[2021.09.14-11.10.03:589][ 53]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-11.10.04:520][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityBuildingTower_C)
+[2021.09.14-11.10.06:120][328]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.10.06:126][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.10.06:126][328]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午3:10:06)
+[2021.09.14-11.10.06:150][328]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.10.06:155][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004217s)
+[2021.09.14-11.10.06:156][328]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.10.06:156][328]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.09.14-11.10.06:156][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005400s)
+[2021.09.14-11.10.06:162][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.14-11.10.06:163][328]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.10.06:163][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.10.06:163][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.10.06:164][328]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.10.06:164][328]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.10.06:168][328]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.10.06:168][328]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.10.06:181][328]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.10.06:181][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.10.06:181][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.10.06:181][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.10.06:182][328]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.10.06:182][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.10.06:182][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.10.06:198][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.10.06:198][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.10.06:198][328]LogInit: FAudioDevice initialized.
+[2021.09.14-11.10.06:198][328]LogAudio: Display: Audio Device (ID: 3) registered with world '遊戲場景'.
+[2021.09.14-11.10.06:204][328]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.10.06:207][328]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-19.10.06
+[2021.09.14-11.10.06:208][328]LogWorld: Bringing up level for play took: 0.002527
+[2021.09.14-11.10.06:208][328]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.09.14-11.10.06:212][328]PIE: Server logged in
+[2021.09.14-11.10.06:213][328]PIE: Play in editor total start time 0.088 seconds.
+[2021.09.14-11.10.25:032][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.25:032][580]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.10.25:032][580]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.10.25:033][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.25:045][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.10.25:062][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.25:068][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.25:068][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.25:069][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.25:088][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.14-11.10.25:130][581]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.09.14-11.10.34:013][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.14-11.10.35:175][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-11.10.35:181][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.14-11.10.35:201][718]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景A6B2482D45B3FDC759E13A9D0FF7D9B8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-11.10.35:213][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-11.10.35:357][718]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData7FB89464418ECD6986897FAC482083FB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-11.10.35:369][718]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-11.10.35:369][718]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-11.10.35:369][718]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-11.10.37:393][957]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-11.10.38:802][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.10.38:807][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.10.38:807][ 94]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午3:10:38)
+[2021.09.14-11.10.38:831][ 94]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.10.38:835][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004011s)
+[2021.09.14-11.10.38:836][ 94]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.10.38:836][ 94]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2021.09.14-11.10.38:836][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005246s)
+[2021.09.14-11.10.38:842][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.09.14-11.10.38:844][ 94]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.10.38:844][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.10.38:844][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.10.38:844][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.10.38:849][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.10.38:849][ 94]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.10.38:862][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.10.38:877][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.10.38:877][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.10.38:877][ 94]LogInit: FAudioDevice initialized.
+[2021.09.14-11.10.38:877][ 94]LogAudio: Display: Audio Device (ID: 4) registered with world '遊戲場景'.
+[2021.09.14-11.10.38:885][ 94]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.10.38:887][ 94]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-19.10.38
+[2021.09.14-11.10.38:888][ 94]LogWorld: Bringing up level for play took: 0.002321
+[2021.09.14-11.10.38:888][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.09.14-11.10.38:892][ 94]PIE: Server logged in
+[2021.09.14-11.10.38:893][ 94]PIE: Play in editor total start time 0.086 seconds.
+[2021.09.14-11.10.50:542][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.50:542][487]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.10.50:542][487]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.10.50:543][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.50:549][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.10.50:564][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.10.50:570][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-11.10.50:570][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.50:571][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.10.50:588][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.10.50:590][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.14-11.10.50:627][488]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.14-11.13.57:254][873]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-11.13.58:676][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-11.13.59:900][175]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.09.14-11.19.32:915][ 27]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.09.14-11.20.46:969][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.09.14-11.20.46:994][714]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto172303D0A451389E8699C8984C993857B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto1.umap'
+[2021.09.14-11.20.46:996][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.037
+[2021.09.14-11.20.46:996][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.14-11.20.51:181][129]Cmd: TRANSACTION UNDO
+[2021.09.14-11.20.51:181][129]LogEditorTransaction: Undo Set Scale
+[2021.09.14-11.25.10:648][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.09.14-11.25.13:418][869]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-11.25.13:436][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-11.25.13:441][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-11.25.13:464][869]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景463DC15E46C5D1A5048D57BFA98C8C03.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-11.25.13:475][869]LogFileHelpers: Saving map '遊戲場景' took 0.039
+[2021.09.14-11.25.13:486][869]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.09.14-11.25.13:486][869]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-11.25.15:734][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-11.25.15:740][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.14-11.25.15:762][117]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景D0345BE64017DBDFFB245899E60C9AA9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-11.25.15:770][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-11.25.15:864][117]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData0565E5CE46D972EC5BA1988459A01F9A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-11.25.15:875][117]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-11.25.15:875][117]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-11.25.15:875][117]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-11.25.22:115][377]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-11.25.22:115][377]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.14-11.25.22:115][377]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.14-11.25.22:136][378]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-11.25.22:136][378]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-11.25.22:136][378]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-11.25.29:288][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.25.29:335][831]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.09.14-11.25.45:664][142]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.25.45:664][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.25.45:719][142]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.25.46:144][142]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.14-11.25.59:951][710]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-11.33.56:136][799]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.14-11.34.22:140][777]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.34.22:187][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.09.14-11.34.22:245][777]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.14-11.34.23:969][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.34.23:978][979]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物F8D773BB4D62D086E7EAD88FF7420BF4.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.34.23:989][979]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.34.23:990][979]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.35.16:036][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.09.14-11.35.16:059][730]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto267AD70854F3A3A05BA2705944EF4AA7E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto2.umap'
+[2021.09.14-11.35.16:061][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.056
+[2021.09.14-11.35.16:061][730]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2021.09.14-11.41.08:345][548]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.41.08:405][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.14-11.41.18:129][702]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.41.18:185][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.09.14-11.41.18:956][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.41.18:965][786]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物34B2427D4FDFC0D9F896BBB86B8B8ABD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.41.18:974][786]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.41.18:975][786]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.42.44:277][926]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.42.44:317][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.09.14-11.42.44:974][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.42.44:983][994]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物A0A148E04B853A8E231EF6AE50FD0730.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.42.44:992][994]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.42.44:992][994]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.43.02:833][801]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.43.02:839][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.43.02:839][801]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午3:43:02)
+[2021.09.14-11.43.02:839][801]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.43.02:847][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007254s)
+[2021.09.14-11.43.02:848][801]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.43.02:848][801]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2021.09.14-11.43.02:848][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008585s)
+[2021.09.14-11.43.02:870][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.09.14-11.43.02:872][801]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.43.02:872][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.43.02:872][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.43.02:873][801]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.43.02:873][801]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.43.02:878][801]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.43.02:878][801]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.43.02:891][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.43.02:891][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.43.02:906][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.43.02:906][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.43.02:906][801]LogInit: FAudioDevice initialized.
+[2021.09.14-11.43.02:906][801]LogAudio: Display: Audio Device (ID: 5) registered with world '遊戲場景'.
+[2021.09.14-11.43.02:954][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.43.02:954][801]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.43.02:957][801]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-19.43.02
+[2021.09.14-11.43.02:957][801]LogWorld: Bringing up level for play took: 0.002679
+[2021.09.14-11.43.02:958][801]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.09.14-11.43.02:963][801]PIE: Server logged in
+[2021.09.14-11.43.02:964][801]PIE: Play in editor total start time 0.126 seconds.
+[2021.09.14-11.43.02:998][802]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-11.43.13:045][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.43.13:045][999]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.43.13:045][999]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-11.43.13:052][999]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.43.13:053][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.43.13:064][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.43.13:084][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.43.13:104][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-11.43.13:104][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.43.13:105][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.43.13:126][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.09.14-11.43.13:139][  0]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.14-11.45.26:794][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.09.14-11.45.26:817][891]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto338E63F99423D1461869F94A808A70BDD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto3.umap'
+[2021.09.14-11.45.26:818][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.048
+[2021.09.14-11.45.26:818][891]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2021.09.14-11.45.26:818][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_怪物] ([1] browsable assets)...
+[2021.09.14-11.45.26:835][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_怪物.BP_怪物]
+[2021.09.14-11.45.26:835][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_怪物]
+[2021.09.14-11.45.26:835][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-11.45.26:844][891]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物_Auto36890BDEF43AA0DB31E7344B3013F9AC2.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto3.uasset'
+[2021.09.14-11.45.26:845][891]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.09.14-11.57.02:667][631]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.57.02:735][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.09.14-11.57.03:472][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.57.03:484][708]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物31263C0744960C38FC1F079F7CA84A46.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.57.03:496][708]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.57.03:496][708]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.57.25:685][233]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.57.25:727][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.09.14-11.57.26:426][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.57.26:438][306]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物B9F215DB498DB2753E75FEA6D23294D2.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.57.26:450][306]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.57.26:450][306]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.57.28:169][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.09.14-11.57.28:191][508]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto4F31BB9A146DA83185B247C91531116A7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto4.umap'
+[2021.09.14-11.57.28:193][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.047
+[2021.09.14-11.57.28:193][508]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.09.14-11.57.59:716][342]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.57.59:759][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.14-11.58.00:354][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.58.00:366][406]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物DF7D82C64BCA1DB6B39999BE6B09CABF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.58.00:377][406]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.58.00:377][406]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-11.58.01:535][533]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.58.01:541][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.58.01:541][533]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午3:58:01)
+[2021.09.14-11.58.01:541][533]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.58.01:548][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007042s)
+[2021.09.14-11.58.01:549][533]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.58.01:550][533]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2021.09.14-11.58.01:550][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008630s)
+[2021.09.14-11.58.01:572][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.14-11.58.01:573][533]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.58.01:573][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.58.01:573][533]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.58.01:573][533]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.58.01:578][533]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.58.01:578][533]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.58.01:591][533]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.58.01:592][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.58.01:592][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.58.01:592][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.58.01:592][533]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.58.01:592][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.58.01:592][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.58.01:606][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.58.01:606][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.58.01:606][533]LogInit: FAudioDevice initialized.
+[2021.09.14-11.58.01:606][533]LogAudio: Display: Audio Device (ID: 6) registered with world '遊戲場景'.
+[2021.09.14-11.58.01:666][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.58.01:666][533]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.58.01:669][533]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-19.58.01
+[2021.09.14-11.58.01:670][533]LogWorld: Bringing up level for play took: 0.002624
+[2021.09.14-11.58.01:670][533]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.09.14-11.58.01:724][533]PIE: Server logged in
+[2021.09.14-11.58.01:725][533]PIE: Play in editor total start time 0.185 seconds.
+[2021.09.14-11.58.21:647][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.58.21:647][821]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.58.21:647][821]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-11.58.21:650][821]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.58.21:651][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.58.21:658][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.58.21:679][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.58.21:700][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-11.58.21:700][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.58.21:701][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.58.21:722][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.09.14-11.58.21:735][822]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.09.14-11.58.23:760][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-11.58.23:766][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-11.58.23:766][ 63]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午3:58:23)
+[2021.09.14-11.58.23:766][ 63]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.58.23:773][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006668s)
+[2021.09.14-11.58.23:774][ 63]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-11.58.23:775][ 63]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2021.09.14-11.58.23:775][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008559s)
+[2021.09.14-11.58.23:796][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.09.14-11.58.23:797][ 63]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-11.58.23:797][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-11.58.23:797][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-11.58.23:797][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-11.58.23:802][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-11.58.23:802][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-11.58.23:814][ 63]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-11.58.23:814][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-11.58.23:814][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-11.58.23:815][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-11.58.23:815][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-11.58.23:815][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-11.58.23:815][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-11.58.23:831][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-11.58.23:831][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-11.58.23:831][ 63]LogInit: FAudioDevice initialized.
+[2021.09.14-11.58.23:831][ 63]LogAudio: Display: Audio Device (ID: 7) registered with world '遊戲場景'.
+[2021.09.14-11.58.23:884][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.58.23:884][ 63]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-11.58.23:887][ 63]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-19.58.23
+[2021.09.14-11.58.23:887][ 63]LogWorld: Bringing up level for play took: 0.002624
+[2021.09.14-11.58.23:888][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.14-11.58.23:893][ 63]PIE: Server logged in
+[2021.09.14-11.58.23:894][ 63]PIE: Play in editor total start time 0.129 seconds.
+[2021.09.14-11.58.32:216][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-11.58.32:216][ 50]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-11.58.32:217][ 50]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-11.58.32:221][ 50]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-11.58.32:222][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.58.32:230][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-11.58.32:250][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-11.58.32:271][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.58.32:272][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-11.58.32:293][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.14-11.58.32:309][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.14-11.59.46:937][157]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-11.59.46:980][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.09.14-11.59.47:409][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-11.59.47:421][197]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物BB5BDBD049F09D93481C7CBFB240ABC4.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-11.59.47:434][197]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-11.59.47:434][197]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-12.07.57:168][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.09.14-12.07.57:191][686]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto5E72602254AABBCF4A462E991BAFE1C47.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto5.umap'
+[2021.09.14-12.07.57:193][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.064
+[2021.09.14-12.07.57:193][686]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.09.14-12.21.41:711][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.09.14-12.21.41:737][884]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto6A5EC28994B2695359217F0A98688FDD5.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto6.umap'
+[2021.09.14-12.21.41:739][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.082
+[2021.09.14-12.21.41:739][884]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2021.09.14-12.21.41:739][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_怪物] ([1] browsable assets)...
+[2021.09.14-12.21.41:749][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_怪物.BP_怪物]
+[2021.09.14-12.21.41:749][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_怪物]
+[2021.09.14-12.21.41:749][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-12.21.41:763][884]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物_Auto6559EB0994FEFEB4A75FA579FFC47A08C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto6.uasset'
+[2021.09.14-12.21.41:764][884]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.09.14-12.21.47:178][ 78]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-12.21.47:221][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.09.14-12.21.51:460][567]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-12.21.51:502][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.14-12.21.52:126][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-12.21.52:139][634]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物5062DC7249595A5570996F955C22B0EF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-12.21.52:153][634]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-12.21.52:153][634]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-12.21.59:091][212]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-12.21.59:136][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.09.14-12.21.59:746][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-12.21.59:759][277]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物738F1B074193FFCDD6F3329D1B6C931A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-12.21.59:770][277]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-12.21.59:770][277]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-12.22.02:947][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-12.22.02:970][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.14-12.22.02:991][510]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景413CD58043380EE92A066692C00938F9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-12.22.03:006][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-12.22.03:101][510]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData9E30B445456AFED621A982944BE554A4.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-12.22.03:112][510]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-12.22.03:112][510]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-12.22.03:112][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-12.22.04:316][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.09.14-12.22.44:075][986]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-12.22.45:121][110]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-12.22.45:167][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.09.14-12.22.45:913][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-12.22.45:926][190]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物EE93D5CF4817EE440AF5BD962CDCA6B0.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-12.22.45:939][190]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-12.22.45:939][190]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-12.32.51:106][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.09.14-12.32.51:129][ 34]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto72A97F3794B384D7BF774FAAB45AFFA15.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto7.umap'
+[2021.09.14-12.32.51:131][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.058
+[2021.09.14-12.32.51:131][ 34]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2021.09.14-12.32.51:131][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_怪物] ([1] browsable assets)...
+[2021.09.14-12.32.51:147][ 34]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_怪物.BP_怪物]
+[2021.09.14-12.32.51:147][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_怪物]
+[2021.09.14-12.32.51:147][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-12.32.51:162][ 34]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物_Auto7B99F0034482C509F2F9F46A815FEC9FF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto7.uasset'
+[2021.09.14-12.32.51:163][ 34]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.09.14-13.04.09:778][986]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.04.09:869][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.09.14-13.04.10:525][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.04.10:556][ 50]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物DB7BB6814B0F222EAA02EC99A73F0674.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.04.10:578][ 50]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.04.10:578][ 50]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.04.36:925][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.09.14-13.04.36:977][363]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto8AF3DE22648D37F2D947902A00DDC3919.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto8.umap'
+[2021.09.14-13.04.36:978][363]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.083
+[2021.09.14-13.04.36:978][363]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2021.09.14-13.26.51:691][147]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.26.51:747][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.14-13.26.52:329][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.26.52:351][202]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物0204DA6F4CC35957827B5BBFFEB7D9EE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.26.52:367][202]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.26.52:367][202]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.26.55:878][297]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.26.55:925][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.09.14-13.26.56:418][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.26.56:438][345]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物924CC38F43FF12C31980108DEF1DCFE8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.26.56:459][345]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.26.56:459][345]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.26.57:058][411]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.26.57:068][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.26.57:068][411]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:26:57)
+[2021.09.14-13.26.57:069][411]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.26.57:105][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035817s)
+[2021.09.14-13.26.57:119][411]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.26.57:120][411]LogPlayLevel: PIE: World Init took: (0.014513s)
+[2021.09.14-13.26.57:120][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.050863s)
+[2021.09.14-13.26.57:144][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.09.14-13.26.57:149][411]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-13.26.57:149][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-13.26.57:149][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-13.26.57:150][411]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-13.26.57:150][411]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-13.26.57:174][411]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-13.26.57:174][411]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-13.26.57:195][411]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-13.26.57:196][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-13.26.57:196][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-13.26.57:196][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-13.26.57:200][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-13.26.57:200][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-13.26.57:200][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-13.26.57:214][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-13.26.57:214][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-13.26.57:214][411]LogInit: FAudioDevice initialized.
+[2021.09.14-13.26.57:214][411]LogAudio: Display: Audio Device (ID: 8) registered with world '遊戲場景'.
+[2021.09.14-13.26.57:260][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.26.57:261][411]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-13.26.57:267][411]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-21.26.57
+[2021.09.14-13.26.57:268][411]LogWorld: Bringing up level for play took: 0.006207
+[2021.09.14-13.26.57:270][411]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.09.14-13.26.57:365][411]PIE: Server logged in
+[2021.09.14-13.26.57:366][411]PIE: Play in editor total start time 0.299 seconds.
+[2021.09.14-13.27.11:813][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.27.11:813][ 13]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.27.11:831][ 13]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-13.27.11:839][ 13]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.27.11:851][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.27.11:860][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-13.27.11:911][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.27.11:934][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-13.27.11:934][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.27.11:937][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.27.11:977][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.14-13.27.11:994][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.09.14-13.28.23:200][424]LogSlate: Took 0.014773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.14-13.28.28:101][719]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.28.28:157][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.09.14-13.28.50:741][480]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.28.50:788][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.09.14-13.28.51:443][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.28.51:465][544]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物D805D1624AA041AB39D78EBEB0DED360.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.28.51:477][544]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.28.51:477][544]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.28.52:200][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.28.52:207][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.28.52:207][617]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:28:52)
+[2021.09.14-13.28.52:207][617]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.28.52:216][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008194s)
+[2021.09.14-13.28.52:217][617]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.28.52:217][617]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2021.09.14-13.28.52:217][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009606s)
+[2021.09.14-13.28.52:240][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.09.14-13.28.52:241][617]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-13.28.52:241][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-13.28.52:241][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-13.28.52:242][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-13.28.52:242][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-13.28.52:250][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-13.28.52:250][617]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-13.28.52:264][617]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-13.28.52:264][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-13.28.52:264][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-13.28.52:264][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-13.28.52:265][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-13.28.52:265][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-13.28.52:265][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-13.28.52:280][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-13.28.52:280][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-13.28.52:280][617]LogInit: FAudioDevice initialized.
+[2021.09.14-13.28.52:280][617]LogAudio: Display: Audio Device (ID: 9) registered with world '遊戲場景'.
+[2021.09.14-13.28.52:356][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.28.52:357][617]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-13.28.52:360][617]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-21.28.52
+[2021.09.14-13.28.52:360][617]LogWorld: Bringing up level for play took: 0.002685
+[2021.09.14-13.28.52:361][617]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.09.14-13.28.52:368][617]PIE: Server logged in
+[2021.09.14-13.28.52:368][617]PIE: Play in editor total start time 0.163 seconds.
+[2021.09.14-13.29.09:663][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.29.09:663][523]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.29.09:664][523]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-13.29.09:682][523]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.29.09:683][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.29.09:692][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-13.29.09:714][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.29.09:738][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-13.29.09:738][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.29.09:739][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.29.09:765][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.09.14-13.29.09:784][524]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.09.14-13.29.21:908][598]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.29.21:955][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.14-13.29.22:502][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.29.22:526][651]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物AD061D8E4BA18A7AB1CB66A5EB9032BB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.29.22:540][651]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.29.22:540][651]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.30.13:988][433]LogEditorTransaction: Undo Move Nodes
+[2021.09.14-13.30.32:338][491]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-13.30.39:135][222]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-13.30.43:104][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.09.14-13.30.55:494][840]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.30.55:546][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.14-13.30.56:147][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.30.56:167][896]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物850B6C1746192502DF40D0A19FD6E517.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.30.56:186][896]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.30.56:186][896]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.31.22:349][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.14-13.31.22:371][ 95]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto9F6BA751742FFEE7CE40BE88BA420CF0C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto9.umap'
+[2021.09.14-13.31.22:373][ 95]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.050
+[2021.09.14-13.31.22:373][ 95]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.09.14-13.32.44:228][633]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.32.44:274][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.14-13.32.46:103][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.32.46:124][844]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物4932CBEF4D5B42E6CFFEC9B7A3C6A034.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.32.46:135][844]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.32.46:136][844]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.35.02:160][973]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.35.02:210][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.14-13.35.03:737][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.35.03:759][116]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物3F7F310F49F270BB905DE4BF8738D3A7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.35.03:797][116]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.35.03:797][116]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.35.04:898][238]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.35.04:905][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.35.04:905][238]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:35:04)
+[2021.09.14-13.35.04:905][238]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.35.04:913][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007610s)
+[2021.09.14-13.35.04:915][238]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.35.04:915][238]LogPlayLevel: PIE: World Init took: (0.002286s)
+[2021.09.14-13.35.04:916][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.010051s)
+[2021.09.14-13.35.04:940][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.09.14-13.35.04:942][238]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-13.35.04:942][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-13.35.04:942][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-13.35.04:943][238]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-13.35.04:943][238]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-13.35.04:949][238]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-13.35.04:949][238]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-13.35.04:966][238]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-13.35.04:966][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-13.35.04:966][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-13.35.04:966][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-13.35.04:967][238]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-13.35.04:967][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-13.35.04:967][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-13.35.04:982][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-13.35.04:982][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-13.35.04:982][238]LogInit: FAudioDevice initialized.
+[2021.09.14-13.35.04:982][238]LogAudio: Display: Audio Device (ID: 10) registered with world '遊戲場景'.
+[2021.09.14-13.35.05:062][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.35.05:062][238]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-13.35.05:065][238]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-21.35.05
+[2021.09.14-13.35.05:065][238]LogWorld: Bringing up level for play took: 0.002855
+[2021.09.14-13.35.05:065][238]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.09.14-13.35.05:072][238]PIE: Server logged in
+[2021.09.14-13.35.05:073][238]PIE: Play in editor total start time 0.169 seconds.
+[2021.09.14-13.35.08:310][594]LogBlueprintUserMessages: [BP_怪物_2] 看到玩家
+[2021.09.14-13.35.08:787][648]LogBlueprintUserMessages: [BP_怪物_2] 看到玩家
+[2021.09.14-13.35.11:810][992]LogBlueprintUserMessages: [BP_怪物_2] 看到玩家
+[2021.09.14-13.35.13:325][171]LogBlueprintUserMessages: [BP_怪物_2] 看到玩家
+[2021.09.14-13.35.20:915][ 67]LogBlueprintUserMessages: [BP_怪物_2] 看到玩家
+[2021.09.14-13.35.24:694][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.35.24:694][513]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.35.24:695][513]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-13.35.24:700][513]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.35.24:701][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.35.24:725][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-13.35.24:746][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.35.24:766][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-13.35.24:767][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.35.24:768][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.35.24:792][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.09.14-13.35.24:809][514]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.09.14-13.35.29:082][887]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.35.29:128][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.14-13.35.29:725][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.35.29:744][946]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物E5FA19EB4A547FC451A88689120180A8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.35.29:758][946]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.35.29:758][946]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.35.55:813][116]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.35.55:867][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.09.14-13.35.56:474][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.35.56:495][177]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物B2D7F4DA4CF70B7979B4BC96AF1B6F50.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.35.56:508][177]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.35.56:509][177]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.36.08:836][952]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.36.08:890][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.14-13.36.09:411][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.36.09:430][  1]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物BEC8494145DC6EC159AC078FB1D4CF41.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.36.09:448][  1]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.36.09:448][  1]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.38.03:741][983]LogEditorTransaction: Undo Move Node
+[2021.09.14-13.40.02:746][348]LogEditorTransaction: Undo Move Nodes
+[2021.09.14-13.40.42:388][815]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.40.42:440][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.09.14-13.40.43:062][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.40.43:084][870]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物B23E20B3431BEC3CF263FAA8DE4A8E46.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.40.43:104][870]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.40.43:104][870]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.40.44:917][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-13.40.44:941][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.14-13.40.44:964][ 23]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景A3CEEA2B455724C20EBBFDAAD955971D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-13.40.44:981][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-13.40.45:097][ 23]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataC1B6E0F24651118D3CEDC2AAD681A32B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-13.40.45:118][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-13.40.45:119][ 23]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-13.40.45:119][ 23]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-13.40.54:041][756]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.40.54:092][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.09.14-13.40.54:928][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.40.54:950][838]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物9AD79AF749D807B7C3514CB65E80B904.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.40.54:966][838]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.40.54:966][838]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.40.58:703][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-13.40.58:727][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.14-13.40.58:750][259]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景EFD7E9BA420D607C068257B07230FB8B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-13.40.58:758][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-13.40.58:861][259]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData38A6EA7C40AF7AD0935FED8E8A174443.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-13.40.58:911][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-13.40.58:911][259]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-13.40.58:911][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-13.41.05:129][577]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.09.14-13.41.24:326][432]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.09.14-13.41.24:560][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.09.14-13.41.26:217][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.09.14-13.41.26:321][586]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_遊戲介面6C38CFB54D6F0EF9AC86A5BF09D2AD71.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_遊戲介面.uasset'
+[2021.09.14-13.41.26:348][586]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.09.14-13.41.26:348][586]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.09.14-13.41.29:866][962]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.41.29:866][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.41.29:874][962]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.41.29:874][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.42.51:430][778]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-13.42.51:608][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.09.14-13.42.52:123][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-13.42.52:146][825]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物31C3846447748C4CE5260187AC970530.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-13.42.52:164][825]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-13.42.52:164][825]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-13.42.53:680][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.42.53:686][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.42.53:687][989]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:42:53)
+[2021.09.14-13.42.53:687][989]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.42.53:705][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019206s)
+[2021.09.14-13.42.53:707][989]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.42.53:708][989]LogPlayLevel: PIE: World Init took: (0.001971s)
+[2021.09.14-13.42.53:708][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.021317s)
+[2021.09.14-13.42.53:740][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.14-13.42.53:741][989]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-13.42.53:741][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-13.42.53:741][989]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-13.42.53:741][989]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-13.42.53:810][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-13.42.53:810][989]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-13.42.53:826][989]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-13.42.53:826][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-13.42.53:826][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-13.42.53:826][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-13.42.53:827][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-13.42.53:827][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-13.42.53:827][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-13.42.53:846][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-13.42.53:846][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-13.42.53:846][989]LogInit: FAudioDevice initialized.
+[2021.09.14-13.42.53:847][989]LogAudio: Display: Audio Device (ID: 11) registered with world '遊戲場景'.
+[2021.09.14-13.42.53:929][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.42.53:930][989]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-13.42.53:933][989]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-21.42.53
+[2021.09.14-13.42.53:933][989]LogWorld: Bringing up level for play took: 0.002787
+[2021.09.14-13.42.53:934][989]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.09.14-13.42.53:940][989]PIE: Server logged in
+[2021.09.14-13.42.53:941][989]PIE: Play in editor total start time 0.256 seconds.
+[2021.09.14-13.42.55:024][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.42.55:024][ 86]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.42.55:025][ 86]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-13.42.55:031][ 86]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.42.55:032][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.42.55:038][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-13.42.55:060][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.42.55:090][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-13.42.55:090][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.42.55:091][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.42.55:123][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.09.14-13.42.55:143][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.14-13.43.08:368][441]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-13.43.08:374][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-13.43.08:374][441]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午5:43:08)
+[2021.09.14-13.43.08:374][441]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.43.08:382][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007200s)
+[2021.09.14-13.43.08:383][441]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-13.43.08:383][441]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2021.09.14-13.43.08:383][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008403s)
+[2021.09.14-13.43.08:414][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.09.14-13.43.08:415][441]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-13.43.08:415][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-13.43.08:415][441]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-13.43.08:415][441]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-13.43.08:420][441]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-13.43.08:420][441]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-13.43.08:436][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-13.43.08:436][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-13.43.08:457][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-13.43.08:457][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-13.43.08:457][441]LogInit: FAudioDevice initialized.
+[2021.09.14-13.43.08:457][441]LogAudio: Display: Audio Device (ID: 12) registered with world '遊戲場景'.
+[2021.09.14-13.43.08:538][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.43.08:538][441]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-13.43.08:542][441]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-21.43.08
+[2021.09.14-13.43.08:542][441]LogWorld: Bringing up level for play took: 0.002694
+[2021.09.14-13.43.08:542][441]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.09.14-13.43.08:550][441]PIE: Server logged in
+[2021.09.14-13.43.08:551][441]PIE: Play in editor total start time 0.178 seconds.
+[2021.09.14-13.43.11:065][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-13.43.11:065][624]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-13.43.11:065][624]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-13.43.11:071][624]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-13.43.11:072][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.43.11:086][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-13.43.11:109][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-13.43.11:137][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-13.43.11:137][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.43.11:138][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-13.43.11:175][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.09.14-13.43.11:189][625]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.09.14-13.43.26:066][185]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.09.14-13.43.28:700][185]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.634 s
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: === Handled ensure: ===
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: 
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: Stack: 
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7b09d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7af42141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7af40db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7af4e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7afc6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa7afc4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:711][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa8813fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa8813faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa88141ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa88141ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa8813faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa88141ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa820f252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa821c7aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa87f0977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa87f3b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa87f0a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa87f61e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ffa87f61659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ff7da13ae49 UE4Editor.exe!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ff7da15117c UE4Editor.exe!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ff7da15125a UE4Editor.exe!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ff7da1652bd UE4Editor.exe!UnknownFunction []
+[2021.09.14-13.43.28:712][185]LogOutputDevice: Error: [Callstack] 0x00007ff7da167fea UE4Editor.exe!UnknownFunction []
+[2021.09.14-13.43.28:713][185]LogOutputDevice: Error: [Callstack] 0x00007ffad7ef81f4 KERNEL32.DLL!UnknownFunction []
+[2021.09.14-13.43.28:713][185]LogOutputDevice: Error: [Callstack] 0x00007ffad811a251 ntdll.dll!UnknownFunction []
+[2021.09.14-13.43.28:713][185]LogOutputDevice: Error: 
