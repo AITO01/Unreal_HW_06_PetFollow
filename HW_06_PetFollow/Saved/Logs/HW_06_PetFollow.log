@@ -9050,3 +9050,13 @@ Purging the undo buffer...
 [2021.09.15-07.43.45:906][939]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
 [2021.09.15-07.43.45:906][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
 [2021.09.15-07.43.46:745][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.09.15-07.47.42:728][ 91]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CityFlagTower2)
+[2021.09.15-07.47.43:794][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-07.47.43:818][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.09.15-07.47.43:851][188]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景14BD21C14594954DEB4D9892BA19976D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-07.47.43:864][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-07.47.43:953][188]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataEBB2EDE14B15EA12ACDA5EAF827A0F8B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-07.47.43:968][188]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-07.47.43:968][188]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-07.47.43:968][188]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-07.47.44:849][292]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
