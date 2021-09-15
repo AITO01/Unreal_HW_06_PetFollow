@@ -5605,3 +5605,1183 @@ Script Stack (0 frames):
 [2021.09.14-15.33.08:339][194]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_子彈FEBFC39B4DB7FAD53D9A7C90B352D1D8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_子彈.uasset'
 [2021.09.14-15.33.08:362][194]AssetCheck: New page: Asset Save: BP_子彈
 [2021.09.14-15.33.08:362][194]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.09.14-17.19.17:440][189]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-17.19.17:819][189]LogUObjectHash: Compacting FUObjectHashTables data took  13.55ms
+[2021.09.14-17.19.19:771][317]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2021.09.14-17.19.21:959][317]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-17.19.21:997][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-17.19.22:036][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.14-17.19.22:066][317]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景AA65165B4FE276CA44D7118394D4EAF1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-17.19.22:075][317]LogFileHelpers: Saving map '遊戲場景' took 0.079
+[2021.09.14-17.19.22:097][317]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.09.14-17.19.22:097][317]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-18.17.23:183][829]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-18.17.24:934][979]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-18.17.24:948][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-18.17.24:948][979]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午10:17:24)
+[2021.09.14-18.17.24:950][979]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.17.24:997][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046566s)
+[2021.09.14-18.17.25:001][979]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-18.17.25:003][979]LogPlayLevel: PIE: World Init took: (0.005534s)
+[2021.09.14-18.17.25:003][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.052743s)
+[2021.09.14-18.17.25:301][979]LogUObjectHash: Compacting FUObjectHashTables data took  21.37ms
+[2021.09.14-18.17.25:308][979]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.09.14-18.17.25:308][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-18.17.25:308][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-18.17.25:308][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-18.17.25:308][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-18.17.25:308][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-18.17.25:309][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-18.17.25:309][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-18.17.25:309][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-18.17.25:309][979]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-18.17.25:309][979]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-18.17.25:327][979]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-18.17.25:327][979]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-18.17.25:344][979]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-18.17.25:350][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-18.17.25:350][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-18.17.25:350][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-18.17.25:358][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-18.17.25:359][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-18.17.25:359][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-18.17.25:360][979]LogInit: FAudioDevice initialized.
+[2021.09.14-18.17.25:360][979]LogAudio: Display: Audio Device (ID: 70) registered with world '遊戲場景'.
+[2021.09.14-18.17.25:365][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-18.17.25:365][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-18.17.25:380][979]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-18.17.25:387][979]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-02.17.25
+[2021.09.14-18.17.25:387][979]LogWorld: Bringing up level for play took: 0.005599
+[2021.09.14-18.17.25:388][979]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.09.14-18.17.25:398][979]PIE: Server logged in
+[2021.09.14-18.17.25:399][979]PIE: Play in editor total start time 0.453 seconds.
+[2021.09.14-18.18.18:567][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.18.18:567][ 80]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.18.18:568][ 80]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.18.18:568][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.18.18:603][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-18.18.18:625][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.18.18:661][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-18.18.18:661][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.18.18:662][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.18.18:684][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.18.18:690][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.09.14-18.18.18:741][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.09.14-18.18.20:919][322]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-18.18.20:925][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-18.18.20:926][322]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午10:18:20)
+[2021.09.14-18.18.20:926][322]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.18.20:936][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009409s)
+[2021.09.14-18.18.20:938][322]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-18.18.20:938][322]LogPlayLevel: PIE: World Init took: (0.002012s)
+[2021.09.14-18.18.20:938][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.011591s)
+[2021.09.14-18.18.20:978][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.09.14-18.18.20:980][322]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-18.18.20:980][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-18.18.20:980][322]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-18.18.20:980][322]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-18.18.20:985][322]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-18.18.20:985][322]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-18.18.21:000][322]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-18.18.21:002][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-18.18.21:002][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-18.18.21:002][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-18.18.21:003][322]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-18.18.21:003][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-18.18.21:003][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-18.18.21:019][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-18.18.21:019][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-18.18.21:019][322]LogInit: FAudioDevice initialized.
+[2021.09.14-18.18.21:019][322]LogAudio: Display: Audio Device (ID: 71) registered with world '遊戲場景'.
+[2021.09.14-18.18.21:032][322]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-18.18.21:035][322]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-02.18.21
+[2021.09.14-18.18.21:035][322]LogWorld: Bringing up level for play took: 0.002628
+[2021.09.14-18.18.21:035][322]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2021.09.14-18.18.21:040][322]PIE: Server logged in
+[2021.09.14-18.18.21:041][322]PIE: Play in editor total start time 0.117 seconds.
+[2021.09.14-18.20.27:938][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.20.27:938][110]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.20.27:938][110]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.20.27:938][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.20.27:953][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-18.20.27:974][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.20.28:009][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.20.28:010][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.20.28:011][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.20.28:037][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.14-18.20.28:089][111]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2021.09.14-18.22.38:391][348]Cmd: DELETE
+[2021.09.14-18.22.38:409][348]Cmd: ACTOR DELETE
+[2021.09.14-18.22.38:567][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.14-18.22.38:608][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.09.14-18.22.38:618][348]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.09.14-18.22.40:573][499]Cmd: TRANSACTION UNDO
+[2021.09.14-18.22.40:573][499]LogEditorTransaction: Undo Delete Actors
+[2021.09.14-18.22.46:728][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.09.14-18.22.47:045][  0]LogSlate: Took 0.049319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-18.22.50:197][  0]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-18.22.52:626][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-18.22.52:660][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.14-18.22.52:684][237]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景5881DEEA48E296C46B99478692F5F011.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-18.22.52:693][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-18.22.52:807][237]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataBC9544A94F7F05EC479CF79A069AB91D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-18.22.52:822][237]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-18.22.52:822][237]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-18.22.52:822][237]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-18.22.53:563][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.14-18.23.06:728][564]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/怪物/nightshade_j_friedrich_PhysicsAsset.nightshade_j_friedrich_PhysicsAsset
+[2021.09.14-18.23.07:344][564]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0060 seconds. Added 8 classes and 3 folders.
+[2021.09.14-18.23.07:510][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.14-18.23.11:252][695]LogSlate: Window 'nightshade_j_friedrich_PhysicsAsset' being destroyed
+[2021.09.14-18.23.11:272][695]LogSlate: Window 'nightshade_j_friedrich_PhysicsAsset' being destroyed
+[2021.09.14-18.23.11:272][695]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.23.11:272][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.23.13:337][851]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2021.09.14-18.23.20:064][851]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-18.23.20:546][851]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.23.20:546][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.23.21:115][851]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.14-18.23.21:115][851]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.23.21:115][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.23.21:447][851]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.14-18.23.21:447][851]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.23.21:447][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.23.21:677][851]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/怪物/nightshade_j_friedrich_PhysicsAsset.nightshade_j_friedrich_PhysicsAsset
+[2021.09.14-18.23.26:074][851]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2021.09.14-18.23.26:334][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.09.14-18.23.26:351][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.14-18.23.27:229][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.14-18.23.30:113][909]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-18.23.30:163][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/nightshade_j_friedrich" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich.uasset" SILENT=true
+[2021.09.14-18.23.30:393][909]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich24FC4F0F47B9B5794EB286A4145667DB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich.uasset'
+[2021.09.14-18.23.30:408][909]AssetCheck: New page: Asset Save: nightshade_j_friedrich
+[2021.09.14-18.23.30:408][909]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-18.23.31:558][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-18.23.31:575][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.09.14-18.23.31:598][ 36]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景3262880F46028A7E6823ED87F9FD0E68.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.14-18.23.31:611][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-18.23.31:714][ 36]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataC591167B4AE54D541639858790A3EE90.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-18.23.31:729][ 36]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-18.23.31:729][ 36]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-18.23.31:729][ 36]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-18.24.24:838][688]LogSlate: Window 'New Physics Asset' being destroyed
+[2021.09.14-18.24.24:895][688]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.24.24:895][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.24.24:980][688]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-18.24.24:989][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.14-18.25.01:563][919]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_Physics1EC7CCD7434EBA1BDD9441A6540C1395.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.14-18.25.01:583][919]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.14-18.25.01:583][919]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-18.25.03:828][ 61]LogSlate: Window 'nightshade_j_friedrich_Physics' being destroyed
+[2021.09.14-18.25.13:420][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.09.14-18.25.14:640][306]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-18.25.14:662][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/nightshade_j_friedrich" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich.uasset" SILENT=true
+[2021.09.14-18.25.14:869][306]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrichCC94DC534DF8BAF57DF7C7B31D6B7F6E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich.uasset'
+[2021.09.14-18.25.14:880][306]AssetCheck: New page: Asset Save: nightshade_j_friedrich
+[2021.09.14-18.25.14:880][306]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-18.25.24:678][774]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-18.48.32:495][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.09.14-18.48.32:508][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.041
+[2021.09.14-18.48.32:509][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_怪物] ([2] browsable assets)...
+[2021.09.14-18.48.32:520][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_怪物.BP_怪物]
+[2021.09.14-18.48.32:530][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_怪物.BP_怪物]
+[2021.09.14-18.48.32:530][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_怪物]
+[2021.09.14-18.48.32:530][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-18.48.32:585][188]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物_Auto294C7F9EF4779DE11F36597A62D83FEA9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto2.uasset'
+[2021.09.14-18.48.32:586][188]LogFileHelpers: Auto-saving content packages took 0.078
+[2021.09.14-18.50.10:863][693]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-18.50.10:925][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.09.14-18.50.11:440][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-18.50.11:486][738]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物A749D07642037361007725986549EC36.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-18.50.11:510][738]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-18.50.11:510][738]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-18.51.10:007][477]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-18.51.10:088][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.09.14-18.51.10:668][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-18.51.10:710][533]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物36348061476D83A53C3227B34C8455DB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-18.51.10:724][533]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-18.51.10:724][533]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-18.51.53:100][808]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-18.51.53:106][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-18.51.53:106][808]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午10:51:53)
+[2021.09.14-18.51.53:107][808]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.51.53:114][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008240s)
+[2021.09.14-18.51.53:115][808]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-18.51.53:116][808]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2021.09.14-18.51.53:116][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009728s)
+[2021.09.14-18.51.53:144][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.09.14-18.51.53:145][808]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-18.51.53:145][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-18.51.53:145][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-18.51.53:146][808]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-18.51.53:146][808]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-18.51.53:149][808]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-18.51.53:149][808]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-18.51.53:164][808]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-18.51.53:164][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-18.51.53:164][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-18.51.53:164][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-18.51.53:165][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-18.51.53:165][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-18.51.53:165][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-18.51.53:184][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-18.51.53:184][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-18.51.53:184][808]LogInit: FAudioDevice initialized.
+[2021.09.14-18.51.53:184][808]LogAudio: Display: Audio Device (ID: 72) registered with world '遊戲場景'.
+[2021.09.14-18.51.53:237][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.51.53:237][808]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-18.51.53:241][808]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-02.51.53
+[2021.09.14-18.51.53:241][808]LogWorld: Bringing up level for play took: 0.003111
+[2021.09.14-18.51.53:241][808]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2021.09.14-18.51.53:248][808]PIE: Server logged in
+[2021.09.14-18.51.53:249][808]PIE: Play in editor total start time 0.144 seconds.
+[2021.09.14-18.52.12:700][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.52.12:700][ 33]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.52.12:702][ 33]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-18.52.12:710][ 33]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.52.12:710][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.52.12:722][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-18.52.12:728][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.52.12:751][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-18.52.12:751][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.52.12:752][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.52.12:781][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.09.14-18.52.12:815][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2021.09.14-18.52.32:466][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.14-18.52.55:634][951]BlueprintLog: New page: Compile BP_武器
+[2021.09.14-18.52.55:692][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.14-18.52.56:265][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.14-18.52.56:307][  2]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_武器8807B4664A13771F912E3F9AFDC18429.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset'
+[2021.09.14-18.52.56:318][  2]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.14-18.52.56:318][  2]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.14-18.54.57:525][612]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-18.54.57:591][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.09.14-18.54.58:267][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-18.54.58:306][674]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物498772FB4BA7469A6E7C6DA3F6C0B2BE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-18.54.58:318][674]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-18.54.58:318][674]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-18.55.11:133][906]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-18.55.11:139][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-18.55.11:139][906]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午10:55:11)
+[2021.09.14-18.55.11:140][906]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.55.11:151][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010821s)
+[2021.09.14-18.55.11:152][906]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-18.55.11:152][906]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2021.09.14-18.55.11:152][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.012443s)
+[2021.09.14-18.55.11:181][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.14-18.55.11:182][906]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-18.55.11:182][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-18.55.11:182][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-18.55.11:183][906]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-18.55.11:183][906]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-18.55.11:244][906]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-18.55.11:244][906]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-18.55.11:258][906]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-18.55.11:259][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-18.55.11:259][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-18.55.11:259][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-18.55.11:260][906]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-18.55.11:260][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-18.55.11:260][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-18.55.11:277][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-18.55.11:277][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-18.55.11:277][906]LogInit: FAudioDevice initialized.
+[2021.09.14-18.55.11:277][906]LogAudio: Display: Audio Device (ID: 73) registered with world '遊戲場景'.
+[2021.09.14-18.55.11:348][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.55.11:348][906]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-18.55.11:352][906]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-02.55.11
+[2021.09.14-18.55.11:352][906]LogWorld: Bringing up level for play took: 0.002810
+[2021.09.14-18.55.11:352][906]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2021.09.14-18.55.11:358][906]PIE: Server logged in
+[2021.09.14-18.55.11:360][906]PIE: Play in editor total start time 0.222 seconds.
+[2021.09.14-18.55.26:361][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-18.55.26:361][553]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-18.55.26:363][553]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-18.55.26:375][553]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-18.55.26:375][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.55.26:392][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-18.55.26:398][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-18.55.26:425][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-18.55.26:426][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.55.26:427][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-18.55.26:459][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.09.14-18.55.26:501][554]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2021.09.14-18.58.39:509][228]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-18.58.39:574][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.09.14-18.58.40:239][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-18.58.40:276][292]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物F3C2B922473D0EC0736CB2861FF0F7BC.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-18.58.40:297][292]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-18.58.40:297][292]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-18.59.08:748][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.09.14-18.59.08:772][868]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto3529641284DB72250E78B60AB7FCA1D55.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto3.umap'
+[2021.09.14-18.59.08:774][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.060
+[2021.09.14-18.59.08:774][868]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2021.09.14-19.00.26:330][322]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.00.26:393][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.09.14-19.00.27:612][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.00.27:648][455]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物A04498094FDFF819C052308FA46EB6DD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.00.27:664][455]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.00.27:665][455]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.02.45:379][838]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_Physics01430A9C4724BA495E7FCD82893BB00E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.14-19.02.45:395][838]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.14-19.02.45:395][838]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-19.03.47:246][914]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-19.03.47:253][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-19.03.47:253][914]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午11:03:47)
+[2021.09.14-19.03.47:290][914]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.03.47:297][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007397s)
+[2021.09.14-19.03.47:298][914]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-19.03.47:299][914]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2021.09.14-19.03.47:299][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009114s)
+[2021.09.14-19.03.47:330][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.09.14-19.03.47:333][914]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-19.03.47:333][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-19.03.47:333][914]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-19.03.47:333][914]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-19.03.47:337][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-19.03.47:337][914]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-19.03.47:351][914]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-19.03.47:352][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-19.03.47:352][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-19.03.47:352][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-19.03.47:352][914]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-19.03.47:352][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-19.03.47:352][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-19.03.47:367][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-19.03.47:367][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-19.03.47:367][914]LogInit: FAudioDevice initialized.
+[2021.09.14-19.03.47:367][914]LogAudio: Display: Audio Device (ID: 74) registered with world '遊戲場景'.
+[2021.09.14-19.03.47:382][914]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-19.03.47:385][914]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-03.03.47
+[2021.09.14-19.03.47:386][914]LogWorld: Bringing up level for play took: 0.002817
+[2021.09.14-19.03.47:386][914]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2021.09.14-19.03.47:391][914]PIE: Server logged in
+[2021.09.14-19.03.47:392][914]PIE: Play in editor total start time 0.141 seconds.
+[2021.09.14-19.04.14:761][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.04.14:761][ 28]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.04.14:761][ 28]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-19.04.14:762][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.04.14:778][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-19.04.14:783][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.04.14:811][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-19.04.14:812][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.04.14:813][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.04.14:834][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.04.14:839][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.09.14-19.04.14:867][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2021.09.14-19.04.25:489][827]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_PhysicsB9F8706B46D4E33E7E1E15AF9AC2E05E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.14-19.04.25:500][827]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.14-19.04.25:500][827]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-19.04.32:036][982]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-19.04.34:469][172]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-19.04.34:475][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-19.04.34:475][172]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午11:04:34)
+[2021.09.14-19.04.34:500][172]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.04.34:507][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007184s)
+[2021.09.14-19.04.34:508][172]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-19.04.34:508][172]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2021.09.14-19.04.34:508][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008657s)
+[2021.09.14-19.04.34:538][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.09.14-19.04.34:540][172]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-19.04.34:540][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-19.04.34:540][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-19.04.34:541][172]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-19.04.34:541][172]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-19.04.34:546][172]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-19.04.34:546][172]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-19.04.34:562][172]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-19.04.34:562][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-19.04.34:562][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-19.04.34:562][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-19.04.34:563][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-19.04.34:563][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-19.04.34:563][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-19.04.34:564][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-19.04.34:564][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-19.04.34:564][172]LogInit: FAudioDevice initialized.
+[2021.09.14-19.04.34:564][172]LogAudio: Display: Audio Device (ID: 75) registered with world '遊戲場景'.
+[2021.09.14-19.04.34:583][172]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-19.04.34:586][172]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-03.04.34
+[2021.09.14-19.04.34:586][172]LogWorld: Bringing up level for play took: 0.002762
+[2021.09.14-19.04.34:586][172]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2021.09.14-19.04.34:591][172]PIE: Server logged in
+[2021.09.14-19.04.34:592][172]PIE: Play in editor total start time 0.119 seconds.
+[2021.09.14-19.04.58:541][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.04.58:541][938]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.04.58:542][938]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-19.04.58:542][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.04.58:556][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-19.04.58:578][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.04.58:604][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-19.04.58:605][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.04.58:606][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.04.58:627][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.04.58:630][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.09.14-19.04.58:675][939]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2021.09.14-19.05.08:127][656]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_Physics9FB44FEC4970391E82CD769F743FDB1C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.14-19.05.08:137][656]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.14-19.05.08:137][656]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-19.05.09:027][738]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-19.05.09:034][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-19.05.09:034][738]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午11:05:09)
+[2021.09.14-19.05.09:034][738]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.05.09:042][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007624s)
+[2021.09.14-19.05.09:043][738]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-19.05.09:043][738]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.09.14-19.05.09:043][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009203s)
+[2021.09.14-19.05.09:071][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.09.14-19.05.09:073][738]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-19.05.09:073][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-19.05.09:073][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-19.05.09:074][738]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-19.05.09:074][738]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-19.05.09:078][738]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-19.05.09:078][738]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-19.05.09:094][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-19.05.09:094][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-19.05.09:110][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-19.05.09:110][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-19.05.09:110][738]LogInit: FAudioDevice initialized.
+[2021.09.14-19.05.09:110][738]LogAudio: Display: Audio Device (ID: 76) registered with world '遊戲場景'.
+[2021.09.14-19.05.09:166][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.05.09:167][738]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-19.05.09:170][738]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-03.05.09
+[2021.09.14-19.05.09:170][738]LogWorld: Bringing up level for play took: 0.002998
+[2021.09.14-19.05.09:171][738]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2021.09.14-19.05.09:180][738]PIE: Server logged in
+[2021.09.14-19.05.09:180][738]PIE: Play in editor total start time 0.148 seconds.
+[2021.09.14-19.05.33:481][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.05.33:481][207]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.05.33:482][207]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-19.05.33:503][207]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-19.05.33:504][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.05.33:518][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-19.05.33:548][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.05.33:576][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.05.33:577][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.05.33:612][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.09.14-19.05.33:644][208]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2021.09.14-19.05.38:980][668]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_Physics64F5AB4D4256C34BCBD7FDB41E99BFD8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.14-19.05.38:994][668]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.14-19.05.38:994][668]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.14-19.05.40:465][805]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-19.05.40:472][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-19.05.40:472][805]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午11:05:40)
+[2021.09.14-19.05.40:472][805]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.05.40:479][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006827s)
+[2021.09.14-19.05.40:481][805]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-19.05.40:481][805]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2021.09.14-19.05.40:481][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008520s)
+[2021.09.14-19.05.40:509][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.14-19.05.40:511][805]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-19.05.40:512][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-19.05.40:512][805]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-19.05.40:512][805]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-19.05.40:517][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-19.05.40:517][805]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-19.05.40:531][805]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-19.05.40:531][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-19.05.40:531][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-19.05.40:532][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-19.05.40:532][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-19.05.40:532][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-19.05.40:532][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-19.05.40:533][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-19.05.40:533][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-19.05.40:533][805]LogInit: FAudioDevice initialized.
+[2021.09.14-19.05.40:533][805]LogAudio: Display: Audio Device (ID: 77) registered with world '遊戲場景'.
+[2021.09.14-19.05.40:607][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.05.40:607][805]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-19.05.40:611][805]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-03.05.40
+[2021.09.14-19.05.40:611][805]LogWorld: Bringing up level for play took: 0.002887
+[2021.09.14-19.05.40:612][805]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2021.09.14-19.05.40:621][805]PIE: Server logged in
+[2021.09.14-19.05.40:622][805]PIE: Play in editor total start time 0.152 seconds.
+[2021.09.14-19.05.52:312][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-19.05.52:312][499]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-19.05.52:313][499]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-19.05.52:322][499]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-19.05.52:322][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.05.52:330][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-19.05.52:357][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-19.05.52:386][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.05.52:388][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-19.05.52:416][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.14-19.05.52:441][500]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2021.09.14-19.08.33:507][  2]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.08.33:575][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.14-19.08.34:393][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.08.34:428][ 76]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物AE3727B647FE70E8434483B0E5DDEF23.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.08.34:445][ 76]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.08.34:445][ 76]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.09.50:613][991]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.09.50:683][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.09.14-19.09.51:557][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.09.51:592][ 78]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物A0E2F5414A33249A719E889793DCEB67.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.09.51:607][ 78]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.09.51:607][ 78]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.10.57:873][110]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.10.57:938][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.09.14-19.10.58:506][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.10.58:540][163]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物0CAAF1374B4DD612D040968502189D06.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.10.58:558][163]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.10.58:558][163]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.12.13:382][433]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.12.13:455][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.09.14-19.12.13:511][433]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-19.12.14:048][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.12.14:082][483]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物D80585334A80512D71295A97CF83C952.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.12.14:095][483]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.12.14:095][483]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.12.42:331][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.09.14-19.12.42:354][788]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto460D48E5F45B822D2A98EC2A596758127.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto4.umap'
+[2021.09.14-19.12.42:356][788]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.053
+[2021.09.14-19.12.42:356][788]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.09.14-19.12.42:357][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_怪物] ([2] browsable assets)...
+[2021.09.14-19.12.42:357][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_怪物]
+[2021.09.14-19.12.42:357][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-19.12.42:387][788]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物_Auto4607CD21242D851EDAF1FFC9EB4D51A0B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/BP/BP_怪物_Auto4.uasset'
+[2021.09.14-19.12.42:389][788]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.09.14-19.13.14:884][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.09.14-19.13.50:715][357]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-19.13.55:483][880]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.14-19.13.56:741][ 16]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.13.56:808][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.09.14-19.13.57:512][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.13.57:548][ 80]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物4609DF44411C8628D9BAFF859E10DD7C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.13.57:559][ 80]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.13.57:559][ 80]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.14.09:384][345]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.14.09:450][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.14-19.14.10:371][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.14.10:407][433]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物AF4EB5C8417D7A60F59DC09DD956684D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.14.10:425][433]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.14.10:425][433]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.16.40:283][419]LogEditorTransaction: Undo Move Node
+[2021.09.14-19.16.40:451][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.09.14-19.17.03:076][ 64]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.17.03:142][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.09.14-19.17.04:823][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.17.04:858][239]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物706F79D5496FE60DC75EBFB150E7DC26.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.17.04:873][239]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.17.04:873][239]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.20.14:124][912]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.20.14:190][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.14-19.20.14:724][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.20.14:759][961]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物D22C0DA143516A4B768C5E918EBC2BAF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.20.14:789][961]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.20.14:789][961]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.21.39:045][795]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-19.21.39:110][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.09.14-19.21.40:249][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-19.21.40:285][915]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物418F1D2249804858E8C98E8C6C275C3C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.14-19.21.40:308][915]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-19.21.40:308][915]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-19.22.42:803][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.14-19.22.42:826][289]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto51E1FF2C74FFCD874080B9BB3AD32F9B5.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto5.umap'
+[2021.09.14-19.22.42:828][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.056
+[2021.09.14-19.22.42:828][289]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2021.09.15-04.35.26:583][ 55]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.15-04.36.15:620][199]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.15-05.23.38:654][912]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.23.39:431][912]LogUObjectHash: Compacting FUObjectHashTables data took  16.39ms
+[2021.09.15-05.23.41:194][  2]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/nightshade_j_friedrich_Physics09E76FAA4B3FE8055706CF8979F05E8B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/怪物/nightshade_j_friedrich_Physics.uasset'
+[2021.09.15-05.23.41:280][  2]AssetCheck: New page: Asset Save: nightshade_j_friedrich_Physics
+[2021.09.15-05.23.41:280][  2]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_Physics.nightshade_j_friedrich_Physics
+[2021.09.15-05.23.41:804][ 46]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.23.41:804][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.23.43:900][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-05.23.43:961][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.15-05.23.44:003][188]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景7FDEDDFD4FBFF146A5D6CE82022A39E9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-05.23.44:056][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-05.23.44:183][188]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData55D0398843DBA96D5EB937BCAC9BBA3E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-05.23.44:203][188]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-05.23.44:203][188]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-05.23.44:203][188]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-05.23.44:754][242]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.15-05.23.45:677][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.23.45:685][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.23.45:687][307]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:23:45)
+[2021.09.15-05.23.45:730][307]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.23.45:754][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021819s)
+[2021.09.15-05.23.45:760][307]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.23.45:761][307]LogPlayLevel: PIE: World Init took: (0.008185s)
+[2021.09.15-05.23.45:761][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.031554s)
+[2021.09.15-05.23.45:820][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.15-05.23.45:822][307]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.23.45:823][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.23.45:823][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.23.45:824][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.23.45:824][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.23.45:848][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.23.45:849][307]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.23.45:868][307]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.23.45:873][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.23.45:873][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.23.45:873][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.23.45:874][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.23.45:875][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.23.45:875][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.23.45:895][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.23.45:895][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.23.45:895][307]LogInit: FAudioDevice initialized.
+[2021.09.15-05.23.45:895][307]LogAudio: Display: Audio Device (ID: 78) registered with world '遊戲場景'.
+[2021.09.15-05.23.45:916][307]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.23.45:920][307]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.23.45
+[2021.09.15-05.23.45:921][307]LogWorld: Bringing up level for play took: 0.004048
+[2021.09.15-05.23.45:922][307]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2021.09.15-05.23.45:964][307]PIE: Server logged in
+[2021.09.15-05.23.45:965][307]PIE: Play in editor total start time 0.281 seconds.
+[2021.09.15-05.24.13:713][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.24.13:713][517]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.24.13:713][517]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.24.13:713][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.24.13:727][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.24.13:764][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.24.13:791][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.24.13:791][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.24.13:792][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.24.13:812][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.24.13:817][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.09.15-05.24.13:868][518]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2021.09.15-05.24.24:377][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.09.15-05.24.43:489][445]BlueprintLog: New page: Compile BP_子彈
+[2021.09.15-05.24.43:596][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.09.15-05.24.44:451][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_子彈" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_子彈.uasset" SILENT=true
+[2021.09.15-05.24.44:487][535]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_子彈D3F180DC4DCC4AE6A189C88950188A78.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_子彈.uasset'
+[2021.09.15-05.24.44:507][535]AssetCheck: New page: Asset Save: BP_子彈
+[2021.09.15-05.24.44:507][535]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_子彈.BP_子彈
+[2021.09.15-05.24.46:867][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.24.46:872][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.24.46:872][773]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:24:46)
+[2021.09.15-05.24.46:873][773]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.24.46:880][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006835s)
+[2021.09.15-05.24.46:882][773]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.24.46:882][773]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2021.09.15-05.24.46:882][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008652s)
+[2021.09.15-05.24.46:917][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.09.15-05.24.46:918][773]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.24.46:918][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.24.46:918][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.24.46:919][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.24.46:919][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.24.46:925][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.24.46:925][773]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.24.46:939][773]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.24.46:940][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.24.46:940][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.24.46:940][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.24.46:940][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.24.46:940][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.24.46:940][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.24.46:957][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.24.46:957][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.24.46:957][773]LogInit: FAudioDevice initialized.
+[2021.09.15-05.24.46:957][773]LogAudio: Display: Audio Device (ID: 79) registered with world '遊戲場景'.
+[2021.09.15-05.24.46:968][773]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.24.46:972][773]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.24.46
+[2021.09.15-05.24.46:972][773]LogWorld: Bringing up level for play took: 0.002898
+[2021.09.15-05.24.46:972][773]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2021.09.15-05.24.46:977][773]PIE: Server logged in
+[2021.09.15-05.24.46:978][773]PIE: Play in editor total start time 0.107 seconds.
+[2021.09.15-05.24.57:342][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.24.57:342][977]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.24.57:343][977]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.24.57:343][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.24.57:355][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.24.57:375][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.24.57:404][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.24.57:404][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.24.57:406][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.24.57:428][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.24.57:433][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.15-05.24.57:476][978]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2021.09.15-05.34.22:660][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.15-05.34.22:686][400]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto6B72946524EB4073ECF19F289B6BD81ED.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto6.umap'
+[2021.09.15-05.34.22:688][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.066
+[2021.09.15-05.34.22:688][400]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2021.09.15-05.36.22:315][356]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.36.22:322][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.36.22:322][356]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:36:22)
+[2021.09.15-05.36.22:322][356]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.36.22:330][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008185s)
+[2021.09.15-05.36.22:332][356]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.36.22:333][356]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2021.09.15-05.36.22:333][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.010439s)
+[2021.09.15-05.36.22:364][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.15-05.36.22:365][356]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.36.22:365][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.36.22:365][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.36.22:366][356]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.36.22:366][356]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.36.22:370][356]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.36.22:371][356]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.36.22:385][356]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.36.22:385][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.36.22:385][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.36.22:385][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.36.22:386][356]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.36.22:386][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.36.22:386][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.36.22:404][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.36.22:404][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.36.22:404][356]LogInit: FAudioDevice initialized.
+[2021.09.15-05.36.22:404][356]LogAudio: Display: Audio Device (ID: 80) registered with world '遊戲場景'.
+[2021.09.15-05.36.22:473][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.36.22:473][356]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.36.22:477][356]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.36.22
+[2021.09.15-05.36.22:477][356]LogWorld: Bringing up level for play took: 0.003214
+[2021.09.15-05.36.22:478][356]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2021.09.15-05.36.22:485][356]PIE: Server logged in
+[2021.09.15-05.36.22:486][356]PIE: Play in editor total start time 0.166 seconds.
+[2021.09.15-05.36.43:554][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.36.43:554][788]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.36.43:555][788]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-05.36.43:565][788]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.36.43:565][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.36.43:581][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.36.43:603][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.36.43:636][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.36.43:637][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.36.43:638][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.36.43:666][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.09.15-05.36.43:694][789]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.09.15-05.36.45:375][985]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.36.45:382][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.36.45:382][985]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:36:45)
+[2021.09.15-05.36.45:382][985]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.36.45:389][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006640s)
+[2021.09.15-05.36.45:390][985]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.36.45:390][985]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.09.15-05.36.45:390][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.007845s)
+[2021.09.15-05.36.45:424][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.15-05.36.45:424][985]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2021.09.15-05.36.45:424][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.36.45:424][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.36.45:424][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.36.45:424][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.36.45:425][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.36.45:425][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.36.45:425][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.36.45:425][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.36.45:425][985]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.36.45:425][985]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.36.45:430][985]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.36.45:430][985]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.36.45:443][985]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.36.45:443][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.36.45:443][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.36.45:443][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.36.45:444][985]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.36.45:444][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.36.45:444][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.36.45:461][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.36.45:461][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.36.45:461][985]LogInit: FAudioDevice initialized.
+[2021.09.15-05.36.45:461][985]LogAudio: Display: Audio Device (ID: 81) registered with world '遊戲場景'.
+[2021.09.15-05.36.45:540][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.36.45:541][985]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.36.45:544][985]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.36.45
+[2021.09.15-05.36.45:544][985]LogWorld: Bringing up level for play took: 0.002999
+[2021.09.15-05.36.45:545][985]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2021.09.15-05.36.45:552][985]PIE: Server logged in
+[2021.09.15-05.36.45:553][985]PIE: Play in editor total start time 0.172 seconds.
+[2021.09.15-05.36.53:394][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.36.53:394][877]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.36.53:396][877]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-05.36.53:427][877]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.36.53:427][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.36.53:443][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.36.53:464][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.36.53:493][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.36.53:495][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.36.53:528][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.09.15-05.36.53:545][878]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2021.09.15-05.37.59:558][847]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.37.59:629][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.09.15-05.38.00:456][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.38.00:512][932]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物98E0F8794D53C725796D94B5D01EFBAF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.38.00:555][932]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.38.00:555][932]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.38.01:297][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.38.01:303][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.38.01:303][ 16]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:38:01)
+[2021.09.15-05.38.01:304][ 16]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.38.01:311][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006531s)
+[2021.09.15-05.38.01:311][ 16]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.38.01:312][ 16]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2021.09.15-05.38.01:312][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.007802s)
+[2021.09.15-05.38.01:343][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.15-05.38.01:345][ 16]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.38.01:345][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.38.01:345][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.38.01:346][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.38.01:346][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.38.01:351][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.38.01:351][ 16]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.38.01:368][ 16]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.38.01:369][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.38.01:386][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.38.01:386][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.38.01:386][ 16]LogInit: FAudioDevice initialized.
+[2021.09.15-05.38.01:386][ 16]LogAudio: Display: Audio Device (ID: 82) registered with world '遊戲場景'.
+[2021.09.15-05.38.01:444][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.38.01:445][ 16]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.38.01:447][ 16]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.38.01
+[2021.09.15-05.38.01:447][ 16]LogWorld: Bringing up level for play took: 0.002812
+[2021.09.15-05.38.01:448][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2021.09.15-05.38.01:455][ 16]PIE: Server logged in
+[2021.09.15-05.38.01:456][ 16]PIE: Play in editor total start time 0.155 seconds.
+[2021.09.15-05.38.11:393][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.38.11:393][ 55]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.38.11:394][ 55]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-05.38.11:399][ 55]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.38.11:399][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.38.11:420][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.38.11:441][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.38.11:474][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.38.11:474][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.38.11:475][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.38.11:505][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.09.15-05.38.11:534][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2021.09.15-05.38.41:817][125]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.38.41:885][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.15-05.38.42:456][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.38.42:500][184]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物2BDB4E1B4C41B105B40A0DA142548C14.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.38.42:513][184]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.38.42:514][184]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.38.44:077][355]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.38.44:084][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.38.44:084][355]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:38:44)
+[2021.09.15-05.38.44:085][355]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.38.44:092][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006984s)
+[2021.09.15-05.38.44:093][355]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.38.44:093][355]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2021.09.15-05.38.44:093][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.008416s)
+[2021.09.15-05.38.44:127][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.09.15-05.38.44:127][355]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2021.09.15-05.38.44:127][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.38.44:127][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.38.44:127][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.38.44:127][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.38.44:128][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.38.44:128][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.38.44:128][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.38.44:128][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.38.44:128][355]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.38.44:128][355]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.38.44:132][355]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.38.44:132][355]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.38.44:146][355]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.38.44:146][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.38.44:146][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.38.44:146][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.38.44:147][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.38.44:147][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.38.44:147][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.38.44:162][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.38.44:162][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.38.44:162][355]LogInit: FAudioDevice initialized.
+[2021.09.15-05.38.44:162][355]LogAudio: Display: Audio Device (ID: 83) registered with world '遊戲場景'.
+[2021.09.15-05.38.44:259][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.38.44:259][355]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.38.44:263][355]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.38.44
+[2021.09.15-05.38.44:263][355]LogWorld: Bringing up level for play took: 0.002979
+[2021.09.15-05.38.44:264][355]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2021.09.15-05.38.44:270][355]PIE: Server logged in
+[2021.09.15-05.38.44:270][355]PIE: Play in editor total start time 0.188 seconds.
+[2021.09.15-05.38.53:894][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.38.53:894][474]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.38.53:895][474]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-05.38.53:903][474]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.38.53:903][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.38.53:917][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.38.53:937][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.38.53:968][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.38.53:968][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.38.53:969][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.38.53:995][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.15-05.38.54:024][475]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2021.09.15-05.41.09:207][996]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.41.09:277][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.09.15-05.41.09:761][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.41.09:799][ 39]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物F5C62E534B78CAD95868C2AC048D519B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.41.09:840][ 39]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.41.09:841][ 39]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.42.42:454][235]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.42.42:529][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.15-05.42.43:126][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.42.43:165][287]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物3B83626D47779684E094B79FA8ED2A07.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.42.43:187][287]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.42.43:187][287]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.43.17:806][175]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.43.17:877][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.15-05.43.18:410][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.43.18:450][224]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物8BFAE8AD4DAA5D5AF4E955B181C29F21.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.43.18:463][224]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.43.18:463][224]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.43.33:771][ 40]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.43.33:839][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.09.15-05.43.34:660][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.43.34:697][118]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物F4BF8D1C4250A49D0E57A7A344081830.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.43.34:710][118]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.43.34:710][118]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.44.10:085][903]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.44.10:151][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.15-05.44.10:748][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.44.10:784][959]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物C4F15BD548ABFFD5247520BC33D76626.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.44.10:802][959]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.44.10:802][959]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.44.36:747][664]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.44.36:817][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.09.15-05.44.37:477][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.44.37:515][728]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物0982B5CA4AE592850AAFFA86EADA4627.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.44.37:528][728]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.44.37:528][728]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.44.38:220][807]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-05.44.38:226][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-05.44.38:226][807]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午9:44:38)
+[2021.09.15-05.44.38:227][807]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.44.38:233][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007283s)
+[2021.09.15-05.44.38:235][807]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-05.44.38:236][807]LogPlayLevel: PIE: World Init took: (0.002261s)
+[2021.09.15-05.44.38:236][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.009713s)
+[2021.09.15-05.44.38:268][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.15-05.44.38:268][807]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2021.09.15-05.44.38:268][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-05.44.38:268][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-05.44.38:269][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-05.44.38:269][807]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-05.44.38:269][807]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-05.44.38:273][807]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-05.44.38:273][807]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-05.44.38:288][807]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-05.44.38:288][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-05.44.38:288][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-05.44.38:289][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-05.44.38:289][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-05.44.38:289][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-05.44.38:289][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-05.44.38:306][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-05.44.38:306][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-05.44.38:306][807]LogInit: FAudioDevice initialized.
+[2021.09.15-05.44.38:306][807]LogAudio: Display: Audio Device (ID: 84) registered with world '遊戲場景'.
+[2021.09.15-05.44.38:363][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.44.38:363][807]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-05.44.38:367][807]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-13.44.38
+[2021.09.15-05.44.38:367][807]LogWorld: Bringing up level for play took: 0.003269
+[2021.09.15-05.44.38:368][807]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2021.09.15-05.44.38:375][807]PIE: Server logged in
+[2021.09.15-05.44.38:376][807]PIE: Play in editor total start time 0.152 seconds.
+[2021.09.15-05.44.49:214][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-05.44.49:214][ 33]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-05.44.49:215][ 33]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-05.44.49:219][ 33]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-05.44.49:220][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.44.49:239][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-05.44.49:259][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-05.44.49:291][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-05.44.49:291][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.44.49:291][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-05.44.49:317][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.15-05.44.49:361][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2021.09.15-05.45.13:294][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-05.45.13:327][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.09.15-05.45.13:352][395]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景FC7E2E294484D6A89BC5529D325291FF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-05.45.13:360][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-05.45.13:454][395]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataD37D4E08492EC93F63309C94EF762EB5.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-05.45.13:478][395]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-05.45.13:478][395]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-05.45.13:478][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-05.45.17:896][721]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.09.15-05.45.22:539][ 22]LogSlate: Window 'BP_遊戲模式' being destroyed
+[2021.09.15-05.46.09:046][536]LogEditorTransaction: Undo Move Nodes
+[2021.09.15-05.46.23:718][193]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.46.23:787][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.09.15-05.46.24:538][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.46.24:573][263]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物C46FFC8D42688A502A8F06B1D18E3B4E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.46.24:588][263]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.46.24:588][263]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.46.38:696][982]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.46.38:768][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.09.15-05.46.39:358][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.46.39:393][ 34]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物225B0AE24DF0968825830CA4453EC51A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.46.39:406][ 34]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.46.39:406][ 34]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.55.13:245][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.09.15-05.55.13:267][294]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto7735A489F4B30EEAB7281409B0565E60A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto7.umap'
+[2021.09.15-05.55.13:269][294]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.065
+[2021.09.15-05.55.13:269][294]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.09.15-05.59.25:575][ 68]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.59.25:659][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.09.15-05.59.26:375][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.59.26:415][128]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物E15B44684D8249AB2D298783727C97D1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.59.26:431][128]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.59.26:431][128]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-05.59.29:342][414]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.15-05.59.41:719][ 33]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-05.59.41:799][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.09.15-05.59.42:509][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-05.59.42:546][ 97]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物D1FCDCCC40118B97F7F627A960EAACBE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-05.59.42:580][ 97]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-05.59.42:580][ 97]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-06.01.26:155][481]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2021.09.15-06.04.09:366][886]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-06.04.09:447][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.15-06.04.10:203][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-06.04.10:244][948]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物8F0B283B4B5D79890F55B8AAE0E81FAC.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-06.04.10:293][948]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-06.04.10:293][948]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-06.04.26:200][103]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-06.04.26:277][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.15-06.04.27:078][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-06.04.27:118][172]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物780EB7F246A0954870C7E5AB736226E7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-06.04.27:149][172]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-06.04.27:149][172]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-06.04.55:898][647]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-06.04.55:975][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.15-06.04.56:794][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-06.04.56:835][716]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物CA51E9EA40CCE5D6D1D2C8953F1E3EC7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-06.04.56:858][716]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-06.04.56:858][716]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-06.05.08:126][883]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-06.05.08:132][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-06.05.08:132][883]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 下午10:05:08)
+[2021.09.15-06.05.08:133][883]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-06.05.08:142][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009115s)
+[2021.09.15-06.05.08:143][883]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-06.05.08:143][883]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2021.09.15-06.05.08:143][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.010519s)
+[2021.09.15-06.05.08:179][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.09.15-06.05.08:181][883]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-06.05.08:181][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-06.05.08:181][883]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-06.05.08:181][883]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-06.05.08:186][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-06.05.08:186][883]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-06.05.08:200][883]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-06.05.08:200][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-06.05.08:200][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-06.05.08:201][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-06.05.08:201][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-06.05.08:201][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-06.05.08:201][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-06.05.08:202][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-06.05.08:202][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-06.05.08:202][883]LogInit: FAudioDevice initialized.
+[2021.09.15-06.05.08:202][883]LogAudio: Display: Audio Device (ID: 85) registered with world '遊戲場景'.
+[2021.09.15-06.05.08:310][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-06.05.08:310][883]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-06.05.08:316][883]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-14.05.08
+[2021.09.15-06.05.08:316][883]LogWorld: Bringing up level for play took: 0.003566
+[2021.09.15-06.05.08:317][883]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2021.09.15-06.05.08:324][883]PIE: Server logged in
+[2021.09.15-06.05.08:326][883]PIE: Play in editor total start time 0.195 seconds.
+[2021.09.15-06.05.19:106][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-06.05.19:106][832]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-06.05.19:107][832]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-06.05.19:135][832]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-06.05.19:136][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-06.05.19:161][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-06.05.19:182][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-06.05.19:217][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-06.05.19:217][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-06.05.19:218][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-06.05.19:251][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.15-06.05.19:306][833]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2021.09.15-06.05.44:524][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.15-06.05.44:547][931]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_Auto8517F0AD64AE8511E69900CAA00966835.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/Autosaves/Game/地圖/遊戲場景_Auto8.umap'
+[2021.09.15-06.05.44:549][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.065
+[2021.09.15-06.05.44:549][931]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
