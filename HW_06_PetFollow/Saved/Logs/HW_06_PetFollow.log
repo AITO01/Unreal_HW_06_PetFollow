@@ -18828,3 +18828,299 @@ Purging the undo buffer...
 [2021.09.15-11.23.56:011][646]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.15-11.23.56:011][646]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
 [2021.09.15-11.23.56:011][646]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.24.29:903][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-11.24.29:909][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-11.24.29:909][ 61]PIE: New page: PIE session: 遊戲場景 (2021年9月16日 上午3:24:29)
+[2021.09.15-11.24.29:941][ 61]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-11.24.29:951][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009296s)
+[2021.09.15-11.24.29:952][ 61]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-11.24.29:952][ 61]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.09.15-11.24.29:952][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.011065s)
+[2021.09.15-11.24.29:982][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.09.15-11.24.29:984][ 61]LogAudio: Display: Creating Audio Device:                 Id: 277, Scope: Unique, Realtime: True
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-11.24.29:984][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-11.24.29:984][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-11.24.29:985][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-11.24.29:985][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-11.24.29:990][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-11.24.29:990][ 61]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-11.24.30:006][ 61]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-11.24.30:006][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-11.24.30:007][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-11.24.30:007][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-11.24.30:007][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-11.24.30:007][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-11.24.30:007][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-11.24.30:024][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-11.24.30:024][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-11.24.30:024][ 61]LogInit: FAudioDevice initialized.
+[2021.09.15-11.24.30:024][ 61]LogAudio: Display: Audio Device (ID: 277) registered with world '遊戲場景'.
+[2021.09.15-11.24.30:037][ 61]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-11.24.30:045][ 61]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-19.24.30
+[2021.09.15-11.24.30:047][ 61]LogWorld: Bringing up level for play took: 0.008899
+[2021.09.15-11.24.30:047][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_336
+[2021.09.15-11.24.30:054][ 61]PIE: Server logged in
+[2021.09.15-11.24.30:055][ 61]PIE: Play in editor total start time 0.147 seconds.
+[2021.09.15-11.24.43:682][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-11.24.43:682][494]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-11.24.43:683][494]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-11.24.43:684][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.24.43:694][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-11.24.43:699][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.24.43:726][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-11.24.43:727][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-11.24.43:728][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-11.24.43:754][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.15-11.24.43:788][495]LogPlayLevel: Display: Destroying online subsystem :Context_336
+[2021.09.15-11.25.59:444][368]BlueprintLog: New page: Compile BP_武器
+[2021.09.15-11.25.59:508][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.09.15-11.26.00:109][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.15-11.26.00:149][419]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_武器59C13B484B3EB18AB970EAA6B0C12202.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset'
+[2021.09.15-11.26.00:163][419]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.15-11.26.00:163][419]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.15-11.26.14:703][901]BlueprintLog: New page: Compile BP_武器
+[2021.09.15-11.26.14:764][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.15-11.26.15:503][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.15-11.26.15:541][973]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_武器3E15FCDB432A89FE7DC091B9AB84D410.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset'
+[2021.09.15-11.26.15:555][973]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.15-11.26.15:555][973]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.15-11.29.41:781][189]BlueprintLog: New page: Compile BP_武器
+[2021.09.15-11.29.41:884][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.09.15-11.29.42:308][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_武器" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset" SILENT=true
+[2021.09.15-11.29.42:347][223]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_武器BD126D7F412B7AF315FF36A1C9C1519B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_武器.uasset'
+[2021.09.15-11.29.42:360][223]AssetCheck: New page: Asset Save: BP_武器
+[2021.09.15-11.29.42:360][223]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_武器.BP_武器
+[2021.09.15-11.29.42:797][272]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-11.29.42:797][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.29.43:779][364]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.15-11.29.43:863][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.09.15-11.29.44:378][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.15-11.29.44:449][397]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_玩家控制F0C55E4D4CD888B997C641BDD844069C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_玩家控制.uasset'
+[2021.09.15-11.29.44:461][397]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.15-11.29.44:461][397]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.15-11.29.44:965][455]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.15-11.29.44:965][455]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-11.29.44:965][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.29.46:093][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.29.46:123][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.15-11.29.46:156][538]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景D435AFE948C1F4E424736389442F79B1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.29.46:168][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.29.46:256][538]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData590CF6A040124F342CE44B892E1B992E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.29.46:268][538]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.29.46:268][538]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.29.46:268][538]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.29.47:246][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.09.15-11.31.14:494][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.34.39:002][900]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.15-11.34.40:804][ 98]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.15-11.34.48:660][  6]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.15-11.34.56:438][886]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-11.34.56:547][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.15-11.34.57:206][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-11.34.57:261][941]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物84E2103F450536EE1809B6AD80A1C491.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-11.34.57:275][941]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-11.34.57:276][941]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.34.58:337][ 66]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.15-11.35.01:703][460]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.15-11.35.01:713][460]LogPlayLevel: Warning: Cancelling Open Transaction 'Edit Comment Color' to start PIE session.
+[2021.09.15-11.35.01:713][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.15-11.35.01:713][460]PIE: New page: PIE session: 遊戲場景 (2021年9月16日 上午3:35:01)
+[2021.09.15-11.35.01:714][460]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-11.35.01:722][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008722s)
+[2021.09.15-11.35.01:723][460]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.15-11.35.01:724][460]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2021.09.15-11.35.01:724][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.010121s)
+[2021.09.15-11.35.01:752][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.09.15-11.35.01:753][460]LogAudio: Display: Creating Audio Device:                 Id: 278, Scope: Unique, Realtime: True
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.15-11.35.01:753][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.15-11.35.01:753][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.15-11.35.01:753][460]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.15-11.35.01:754][460]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.15-11.35.01:758][460]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.15-11.35.01:758][460]LogAudioMixer: Display: 1: FrontRight
+[2021.09.15-11.35.01:771][460]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.15-11.35.01:771][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.15-11.35.01:771][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.15-11.35.01:771][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.15-11.35.01:772][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.15-11.35.01:772][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.15-11.35.01:772][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.15-11.35.01:787][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.15-11.35.01:787][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.15-11.35.01:787][460]LogInit: FAudioDevice initialized.
+[2021.09.15-11.35.01:787][460]LogAudio: Display: Audio Device (ID: 278) registered with world '遊戲場景'.
+[2021.09.15-11.35.01:835][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-11.35.01:835][460]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.15-11.35.01:844][460]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.15-19.35.01
+[2021.09.15-11.35.01:846][460]LogWorld: Bringing up level for play took: 0.009668
+[2021.09.15-11.35.01:846][460]LogOnline: OSS: Creating online subsystem instance for: :Context_338
+[2021.09.15-11.35.01:855][460]PIE: Server logged in
+[2021.09.15-11.35.01:858][460]PIE: Play in editor total start time 0.15 seconds.
+[2021.09.15-11.35.38:293][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.15-11.35.38:293][860]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.15-11.35.38:294][860]LogSlate: Window 'HW_06_PetFollow Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.15-11.35.38:299][860]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.15-11.35.38:301][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.35.38:336][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.15-11.35.38:341][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.15-11.35.38:366][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.15-11.35.38:367][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-11.35.38:368][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.15-11.35.38:392][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.09.15-11.35.38:468][861]LogPlayLevel: Display: Destroying online subsystem :Context_338
+[2021.09.15-11.38.58:918][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-11.38.58:966][743]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物894727774ECC689865E50CBA79CF6AEC.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-11.38.58:984][743]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-11.38.58:984][743]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.39.41:932][785]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-11.39.42:022][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.15-11.39.42:598][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-11.39.42:651][823]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物6CA169C943A9C2DF7DACB9BC4E576EE4.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-11.39.42:665][823]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-11.39.42:665][823]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.39.44:017][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.39.44:047][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.09.15-11.39.44:077][955]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景A6B2CE5F4700A9798FDAB380F87D9279.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.39.44:090][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.39.44:180][955]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataDFC4E7FF45CAB3AB67226E9E361A58BD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.39.44:192][955]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.39.44:192][955]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.39.44:192][955]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.39.47:772][383]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物)
+[2021.09.15-11.40.17:919][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.40.17:944][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.15-11.40.17:980][ 25]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景0C86DAA547B97EC407E52E802DC31067.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.40.17:993][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.40.18:082][ 25]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataA7DB00044C5BA58246AF43961835729C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.40.18:095][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.40.18:095][ 25]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.40.18:095][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.40.19:551][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.15-11.43.58:357][ 18]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-11.43.58:525][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.09.15-11.43.59:359][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-11.43.59:412][ 86]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物1BDDC59B40FD00B9F7305F9E5680D6D8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-11.43.59:426][ 86]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-11.43.59:426][ 86]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.44.35:964][257]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-11.44.36:128][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.09.15-11.44.37:607][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-11.44.37:659][398]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物FD781328499B1E5ACAC845AB986E6ED8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-11.44.37:673][398]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-11.44.37:673][398]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-11.45.23:450][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.15-11.45.25:363][416]LogSlate: Window 'Save Content' being destroyed
+[2021.09.15-11.45.25:390][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.45.25:416][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.15-11.45.25:447][416]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景DD2EA1AE48599DF02A0938969C107D18.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.45.25:459][416]LogFileHelpers: Saving map '遊戲場景' took 0.069
+[2021.09.15-11.45.25:470][416]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.09.15-11.45.25:470][416]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.45.28:106][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.45.28:132][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.09.15-11.45.28:162][665]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景0B2F347B4040482DF9EDB683338E5E2B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.45.28:174][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.45.28:263][665]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData19DC8ECA453DC252B74A10BD448F7BCE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.45.28:276][665]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.45.28:276][665]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.45.28:276][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.57.06:215][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.57.06:243][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.09.15-11.57.06:279][798]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景573C80994ED1CC58A915BC8565D6474F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.57.06:291][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.57.06:381][798]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData52DE9B9941F28A16A3C011B222426898.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.57.06:394][798]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.57.06:394][798]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.57.06:394][798]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-11.57.31:465][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-11.57.31:490][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.09.15-11.57.31:523][752]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景A1F36E39450E35E5E4CF60BC0C1519C0.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-11.57.31:535][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-11.57.31:625][752]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData2E0AE49A47D0BC3B0B769094B7BE96A1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-11.57.31:636][752]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-11.57.31:636][752]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-11.57.31:637][752]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-12.10.29:958][904]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物2)
+[2021.09.15-12.10.37:125][595]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物4)
+[2021.09.15-12.10.41:109][967]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物5)
+[2021.09.15-12.11.17:249][483]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物7)
+[2021.09.15-12.12.11:576][708]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-12.12.11:740][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.09.15-12.12.14:464][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-12.12.14:518][987]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物8CD78651421F8F7CEC1064B0C94551F6.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-12.12.14:530][987]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-12.12.14:530][987]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-12.12.36:697][310]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-12.12.36:865][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.09.15-12.12.37:786][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-12.12.37:838][386]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物647A9EEE4D68164C14D9B088F298F170.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-12.12.37:850][386]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-12.12.37:851][386]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-12.12.47:731][355]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物)
+[2021.09.15-12.13.15:178][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-12.13.15:206][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.09.15-12.13.15:243][ 33]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景95F1BE1D4AA449BB743A6393B4823E08.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-12.13.15:257][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-12.13.15:347][ 33]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltDataC58D585E40AE89C49A54A2AA730B6E13.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-12.13.15:360][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-12.13.15:360][ 33]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-12.13.15:360][ 33]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-12.13.16:420][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.15-12.13.36:446][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-12.13.36:493][360]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物002DEED741DD8529ECC3A782F8FB781D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-12.13.36:504][360]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-12.13.36:504][360]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-12.13.56:078][646]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-12.13.56:236][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.15-12.13.56:886][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-12.13.56:938][701]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物ABE97E0A485E21AA6860F290EAECC037.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-12.13.56:951][701]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-12.13.56:951][701]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-12.14.03:386][451]BlueprintLog: New page: Compile BP_怪物
+[2021.09.15-12.14.03:545][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.09.15-12.14.04:453][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.15-12.14.04:505][531]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/BP_怪物89F2D3BC47E76AC4306947BC4E702887.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/BP_怪物.uasset'
+[2021.09.15-12.14.04:517][531]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.15-12.14.04:517][531]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.15-12.16.23:415][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-12.16.23:444][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.15-12.16.23:487][684]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景FB5F957247E6A1EE180C51B9EAF05F82.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-12.16.23:501][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-12.16.23:591][684]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData2A623F0649F99CEDE1E8F4A255515947.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-12.16.23:604][684]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-12.16.23:604][684]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-12.16.23:604][684]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.15-12.16.25:087][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.09.15-12.28.18:656][994]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\朝陽尖兵\第5章-Unreal\魔王魂 旧ゲーム音楽 ダンジョン15.ogg)
+[2021.09.15-12.28.22:666][125]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 魔王魂_旧ゲーム音楽_ダンジョン15...
+[2021.09.15-12.28.22:669][125]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/BP/魔王魂_旧ゲーム音楽_ダンジョン15.魔王魂_旧ゲーム音楽_ダンジョン15 will be modified from 40 to 40.
+[2021.09.15-12.28.23:622][125]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10248192 while cooking SoundWave /Game/BP/魔王魂_旧ゲーム音楽_ダンジョン15.魔王魂_旧ゲーム音楽_ダンジョン15.
+[2021.09.15-12.28.31:257][705]LogContentBrowser: Attempting asset rename: 魔王魂_旧ゲーム音楽_ダンジョン15 -> 背景音樂
+[2021.09.15-12.28.31:317][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/背景音樂" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/背景音樂.uasset" SILENT=true
+[2021.09.15-12.28.31:323][705]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/背景音樂B88364AA43C5825B1B4A349B1BE9FD28.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/BP/背景音樂.uasset'
+[2021.09.15-12.28.31:414][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.09.15-12.28.31:462][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.09.15-12.28.31:485][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.15-12.28.31:553][705]AssetCheck: New page: Asset Save: 背景音樂
+[2021.09.15-12.28.31:553][705]LogContentValidation: Display: Validating SoundWave /Game/BP/背景音樂.背景音樂
+[2021.09.15-12.28.32:774][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.15-12.28.34:741][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.15-12.28.34:765][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.09.15-12.28.34:795][956]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景598CE84F4A8A4ED3E22A9CBF0F298D8A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景.umap'
+[2021.09.15-12.28.34:808][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.15-12.28.34:897][956]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Saved/遊戲場景_BuiltData4C9138C840132E8667BF6C85309FA08E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_06_PetFollow/HW_06_PetFollow/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.15-12.28.34:908][956]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.15-12.28.34:908][956]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.15-12.28.34:908][956]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
